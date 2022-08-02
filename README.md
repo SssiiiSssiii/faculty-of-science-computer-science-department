@@ -62,3 +62,5 @@
 6. COMP 314
 7. ETHR 302
 ```
+science asu OpenCourseWare
+https://www.youtube.com/channel/UCjdFlM4kCwUzKtbwgICBQtA
