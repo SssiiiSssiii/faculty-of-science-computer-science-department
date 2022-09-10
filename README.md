@@ -13,7 +13,11 @@ https://www.youtube.com/watch?v=tBfGQNkaoOU&list=PLD30uL4tqplG6o3vAp3ofXet0TXETi
 https://www.youtube.com/watch?v=CtjkPkv2Fhk&list=PLD30uL4tqplGqcEvIb_lQkguEFvQ2XZKe&ab_channel=Dr.MohamedIsmail    
 ```c
 3. CHEM 101
-4. CHEM 103
+````
+```c
+4. CHEM 103 (lab)
+```
+```c
 5. STAT 101
 ```
 ```c
