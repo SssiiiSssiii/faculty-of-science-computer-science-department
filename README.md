@@ -5,7 +5,7 @@
 1. MATH 101    
 ```
 ### My tips is      
-You have to attend the lectures and pay attention to it so the next mathematics courses will be easier for you.   
+* You have to attend the lectures and pay `attention` to it so the `next mathematics courses` will be `easier` for you.   
 https://www.youtube.com/playlist?list=PLjnf2UXBbqZuFoGpRFvj7P19BXb42BVj0    
 
 ```c
@@ -20,12 +20,19 @@ https://www.youtube.com/watch?v=CtjkPkv2Fhk&list=PLD30uL4tqplGqcEvIb_lQkguEFvQ2X
 ```c
 4. CHEM 103 (lab)
 ```
+### My tips is      
+* Do chemical experiments on your own, `don't` be afraid and have fun 😉.
 ```c
 5. STAT 101
 ```
+### My tips is 
+* Try to apply what you have `learned` in the real life.   
 ```c
 6. SAFS 101
 ```
+### My tips is    
+ * Most of the students do not pay attention to this courseو because of its ease or lack of importance (as they say), but I` advise` you to attend and `enjoy`.    
+ * This course will `change` the way you think.           
 https://www.youtube.com/watch?v=Y1wBnsZ9Lk0&list=PL2d8gh9EeIUOxHNdWSWgx54QLStLS44zV&ab_channel=abdoscienceChannel   
 ```c
 7. HURI 101
