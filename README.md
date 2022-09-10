@@ -15,13 +15,23 @@ https://www.youtube.com/watch?v=CtjkPkv2Fhk&list=PLD30uL4tqplGqcEvIb_lQkguEFvQ2X
 3. CHEM 101
 4. CHEM 103
 5. STAT 101
+```
+```c
 6. SAFS 101
+```
+https://www.youtube.com/watch?v=Y1wBnsZ9Lk0&list=PL2d8gh9EeIUOxHNdWSWgx54QLStLS44zV&ab_channel=abdoscienceChannel   
+```c
 7. HURI 101
 ```
 ## Semester 2
 ```c
 1. MATH 102
-2. MATH 104
+```
+```c
+2. MATH 104 
+```
+https://www.youtube.com/watch?v=QWDXTJCe3yo&list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S&ab_channel=FCIHOCW    
+```c
 3. COMP 102
 4. COMP 106
 5. COMP 104
