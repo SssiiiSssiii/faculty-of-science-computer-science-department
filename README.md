@@ -3,7 +3,15 @@
 ## Semester 1
 ```c
 1. MATH 101
+```
+https://www.youtube.com/playlist?list=PLjnf2UXBbqZuFoGpRFvj7P19BXb42BVj0    
+```c
 2. PHYS 101
+```
+https://www.youtube.com/watch?v=EfBhM9OPw9o&list=PLD30uL4tqplH5Lyg6V2VCZCs_CaEdXWA9&ab_channel=Dr.MohamedIsmail    
+https://www.youtube.com/watch?v=tBfGQNkaoOU&list=PLD30uL4tqplG6o3vAp3ofXet0TXETiziY&ab_channel=Dr.MohamedIsmail    
+https://www.youtube.com/watch?v=CtjkPkv2Fhk&list=PLD30uL4tqplGqcEvIb_lQkguEFvQ2XZKe&ab_channel=Dr.MohamedIsmail    
+```c
 3. CHEM 101
 4. CHEM 103
 5. STAT 101
