@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=CtjkPkv2Fhk&list=PLD30uL4tqplGqcEvIb_lQkguEFvQ2X
 6. SAFS 101
 ```
 ### My tips is    
- * Most of the students do not pay attention to this courseو because of its ease or lack of importance (as they say), but I` advise` you to attend and `enjoy`.    
+ * Most of the students do not pay attention to this courseو because of its ease or lack of importance (as they say), but I `advise` you to attend and `enjoy`.    
  * This course will `change` the way you think.           
 https://www.youtube.com/watch?v=Y1wBnsZ9Lk0&list=PL2d8gh9EeIUOxHNdWSWgx54QLStLS44zV&ab_channel=abdoscienceChannel   
 ```c
