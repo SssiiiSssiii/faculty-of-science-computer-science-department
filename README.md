@@ -15,6 +15,7 @@
 * https://www.youtube.com/watch?v=ICq0l6wvO9M&list=PL8pYI62gCNsVzaLoGkHrmM8g-qjtEDv_4&ab_channel=anaHr
 * https://www.youtube.com/watch?v=nTe1j5A2-_4&list=PL8pYI62gCNsUJvxHc6uzWINUfvdoWSWia&ab_channel=anaHr  
 * https://www.youtube.com/watch?v=RIps3FeZv2k&list=PL8pYI62gCNsX_vrnlEOR_9fki_gRBTAGd&ab_channel=anaHr
+* https://www.youtube.com/playlist?list=PL8pYI62gCNsWUhiXetyAEFeJNW4ChNCfH
 
 ```c
 2. PHYS 101
@@ -51,18 +52,37 @@
 ```c
 1. MATH 102
 ```
+### My tips is      
+* You have to attend the lectures and pay `attention` to it so the `next mathematics courses` will be `easier` for you. 
+
 ### Resources
+* https://www.youtube.com/playlist?list=PLjnf2UXBbqZvMsPgz8532dLzvGaKSebIn
 * https://www.youtube.com/watch?v=r-OHCCCwRlI&list=PL8pYI62gCNsW2tmaDJHuqC_U7muWUCdEf&ab_channel=anaHr 
 ```c
 2. MATH 104 
 ```
+### My tips is      
+* An essential introduction to computer science, `don't` neglect it.
 ### Resources
 * https://www.youtube.com/watch?v=QWDXTJCe3yo&list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S&ab_channel=FCIHOCW    
 ```c
 3. COMP 102
+```
+### Resources
+* https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji&ab_channel=ElzeroWebSchool
+```c
 4. COMP 106
+```
+### Resources
+* https://www.youtube.com/playlist?list=PLhx4zaYkEjI8BuPybYhAotW2gKDIT9y2D
+```c
 5. COMP 104
+```
+### Resources
+* https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD
+```c
 6. INCO 102
+```c
 7. ENGL 102
 ```
 # Second Year
