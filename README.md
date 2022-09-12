@@ -80,7 +80,7 @@
 5. COMP 104
 ```
 ### My tips is   
-* You will get a little tired at the beginning of learning the first programming language but when you finish and start any other programming language it will be much easier, so `foucs` on it.
+* You will get a little tired at the beginning of learning the first programming language, but when you finish and start any other programming language it will be much easier, so `foucs` on it.
 ### Resources
 * https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD
 ```c
