@@ -41,7 +41,7 @@
 6. SAFS 101
 ```
 ### My tips is    
- * Most of the students do not pay attention to this courseو because of its ease or lack of importance (as they say), but I `advise` you to attend and `enjoy`.    
+ * Most of the students do not pay attention to this course, because of its ease or lack of importance (as they say), but I `advise` you to attend and `enjoy`.    
  * This course will `change` the way you think.
  ### Resources
 * https://www.youtube.com/watch?v=Y1wBnsZ9Lk0&list=PL2d8gh9EeIUOxHNdWSWgx54QLStLS44zV&ab_channel=abdoscienceChannel   
@@ -53,7 +53,7 @@
 1. MATH 102
 ```
 ### My tips is      
-* You have to attend the lectures and pay `attention` to it so the `next mathematics courses` will be `easier` for you. 
+* You have to attend the lectures and pay `attention` to it, so the `next mathematics courses` will be `easier` for you. 
 
 ### Resources
 * https://www.youtube.com/playlist?list=PLjnf2UXBbqZvMsPgz8532dLzvGaKSebIn
@@ -63,7 +63,7 @@
 ```
 ### My tips is      
 * An essential introduction to computer science, `don't` neglect it.
-* Enjoy
+* Enjoy.
 ### Resources
 * https://www.youtube.com/watch?v=QWDXTJCe3yo&list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S&ab_channel=FCIHOCW    
 ```c
