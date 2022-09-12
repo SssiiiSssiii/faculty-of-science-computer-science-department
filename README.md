@@ -5,7 +5,7 @@
 1. MATH 101    
 ```
 ### My tips is      
-* You have to attend the lectures and pay `attention` to it so the `next mathematics courses` will be `easier` for you. 
+* You have to attend the lectures and pay `attention` to it, so the `next mathematics courses` will be `easier` for you. 
 ### Resources
 * https://www.youtube.com/watch?v=pqZvxYKSMnc&ab_channel=anaHr (Motivation)
 * https://www.youtube.com/playlist?list=PLjnf2UXBbqZuFoGpRFvj7P19BXb42BVj0  
