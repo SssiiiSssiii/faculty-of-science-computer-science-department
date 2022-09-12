@@ -7,8 +7,14 @@
 ### My tips is      
 * You have to attend the lectures and pay `attention` to it so the `next mathematics courses` will be `easier` for you. 
 ### Resources
-* https://www.youtube.com/watch?v=r-OHCCCwRlI&list=PL8pYI62gCNsW2tmaDJHuqC_U7muWUCdEf&ab_channel=anaHr (Motivation)
-* https://www.youtube.com/playlist?list=PLjnf2UXBbqZuFoGpRFvj7P19BXb42BVj0    
+* https://www.youtube.com/watch?v=pqZvxYKSMnc&ab_channel=anaHr (Motivation)
+* https://www.youtube.com/playlist?list=PLjnf2UXBbqZuFoGpRFvj7P19BXb42BVj0  
+* https://www.youtube.com/playlist?list=PL8pYI62gCNsUIR42KUAH7QoUWyYgdCk1J
+* https://www.youtube.com/watch?v=JBocf5uXgFE&list=PL8pYI62gCNsVpDO6OZZgix7N4A7i2sH8_&ab_channel=anaHr
+* https://www.youtube.com/watch?v=rKOvqrEIXgQ&list=PL8pYI62gCNsXVvv1jWd-t3O8_l45Vj65x&ab_channel=anaHr
+* https://www.youtube.com/watch?v=ICq0l6wvO9M&list=PL8pYI62gCNsVzaLoGkHrmM8g-qjtEDv_4&ab_channel=anaHr
+* https://www.youtube.com/watch?v=nTe1j5A2-_4&list=PL8pYI62gCNsUJvxHc6uzWINUfvdoWSWia&ab_channel=anaHr  
+* https://www.youtube.com/watch?v=RIps3FeZv2k&list=PL8pYI62gCNsX_vrnlEOR_9fki_gRBTAGd&ab_channel=anaHr
 
 ```c
 2. PHYS 101
@@ -45,6 +51,8 @@
 ```c
 1. MATH 102
 ```
+### Resources
+* https://www.youtube.com/watch?v=r-OHCCCwRlI&list=PL8pYI62gCNsW2tmaDJHuqC_U7muWUCdEf&ab_channel=anaHr 
 ```c
 2. MATH 104 
 ```
