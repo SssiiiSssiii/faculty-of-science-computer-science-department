@@ -5,8 +5,9 @@
 1. MATH 101    
 ```
 ### My tips is      
-* You have to attend the lectures and pay `attention` to it so the `next mathematics courses` will be `easier` for you.   
-https://www.youtube.com/playlist?list=PLjnf2UXBbqZuFoGpRFvj7P19BXb42BVj0    
+* You have to attend the lectures and pay `attention` to it so the `next mathematics courses` will be `easier` for you. 
+### Resources
+* https://www.youtube.com/playlist?list=PLjnf2UXBbqZuFoGpRFvj7P19BXb42BVj0    
 
 ```c
 2. PHYS 101
