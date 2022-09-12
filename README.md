@@ -12,9 +12,10 @@
 ```c
 2. PHYS 101
 ```
-https://www.youtube.com/watch?v=EfBhM9OPw9o&list=PLD30uL4tqplH5Lyg6V2VCZCs_CaEdXWA9&ab_channel=Dr.MohamedIsmail    
-https://www.youtube.com/watch?v=tBfGQNkaoOU&list=PLD30uL4tqplG6o3vAp3ofXet0TXETiziY&ab_channel=Dr.MohamedIsmail    
-https://www.youtube.com/watch?v=CtjkPkv2Fhk&list=PLD30uL4tqplGqcEvIb_lQkguEFvQ2XZKe&ab_channel=Dr.MohamedIsmail    
+### Resources
+* https://www.youtube.com/watch?v=EfBhM9OPw9o&list=PLD30uL4tqplH5Lyg6V2VCZCs_CaEdXWA9&ab_channel=Dr.MohamedIsmail    
+* https://www.youtube.com/watch?v=tBfGQNkaoOU&list=PLD30uL4tqplG6o3vAp3ofXet0TXETiziY&ab_channel=Dr.MohamedIsmail    
+* https://www.youtube.com/watch?v=CtjkPkv2Fhk&list=PLD30uL4tqplGqcEvIb_lQkguEFvQ2XZKe&ab_channel=Dr.MohamedIsmail    
 ```c
 3. CHEM 101
 ````
