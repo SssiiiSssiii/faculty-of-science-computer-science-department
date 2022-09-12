@@ -33,8 +33,9 @@ https://www.youtube.com/watch?v=CtjkPkv2Fhk&list=PLD30uL4tqplGqcEvIb_lQkguEFvQ2X
 ```
 ### My tips is    
  * Most of the students do not pay attention to this courseو because of its ease or lack of importance (as they say), but I `advise` you to attend and `enjoy`.    
- * This course will `change` the way you think.           
-https://www.youtube.com/watch?v=Y1wBnsZ9Lk0&list=PL2d8gh9EeIUOxHNdWSWgx54QLStLS44zV&ab_channel=abdoscienceChannel   
+ * This course will `change` the way you think.
+ ### Resources
+* https://www.youtube.com/watch?v=Y1wBnsZ9Lk0&list=PL2d8gh9EeIUOxHNdWSWgx54QLStLS44zV&ab_channel=abdoscienceChannel   
 ```c
 7. HURI 101
 ```
@@ -45,7 +46,8 @@ https://www.youtube.com/watch?v=Y1wBnsZ9Lk0&list=PL2d8gh9EeIUOxHNdWSWgx54QLStLS4
 ```c
 2. MATH 104 
 ```
-https://www.youtube.com/watch?v=QWDXTJCe3yo&list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S&ab_channel=FCIHOCW    
+### Resources
+* https://www.youtube.com/watch?v=QWDXTJCe3yo&list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S&ab_channel=FCIHOCW    
 ```c
 3. COMP 102
 4. COMP 106
