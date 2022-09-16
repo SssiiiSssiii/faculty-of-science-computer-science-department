@@ -2,7 +2,7 @@
 
 ## Semester 1
 ```c
-1. MATH 101 | تفاضل وتكامل 1
+1. MATH 101 | تفاضل وتكامل (1)
 ```
 ### My tips is      
 * You have to attend the lectures and pay `attention` to it, so the `next mathematics courses` will be `easier` for you. 
@@ -18,17 +18,17 @@
 * https://www.youtube.com/playlist?list=PL8pYI62gCNsWUhiXetyAEFeJNW4ChNCfH
 
 ```c
-2. PHYS 101 | فيزياء عامة 1
+2. PHYS 101 | فيزياء عامة (1)
 ```
 ### Resources
 * https://www.youtube.com/watch?v=EfBhM9OPw9o&list=PLD30uL4tqplH5Lyg6V2VCZCs_CaEdXWA9&ab_channel=Dr.MohamedIsmail    
 * https://www.youtube.com/watch?v=tBfGQNkaoOU&list=PLD30uL4tqplG6o3vAp3ofXet0TXETiziY&ab_channel=Dr.MohamedIsmail    
 * https://www.youtube.com/watch?v=CtjkPkv2Fhk&list=PLD30uL4tqplGqcEvIb_lQkguEFvQ2XZKe&ab_channel=Dr.MohamedIsmail    
 ```c
-3. CHEM 101 | كيمياء عامة 1
+3. CHEM 101 | كيمياء عامة (1)
 ````
 ```c
-4. CHEM 103 (lab) | عملي كيمياء عامة 1
+4. CHEM 103 (lab) | عملي كيمياء عامة (1)
 ```
 ### My tips is      
 * Do chemical experiments on your own, `don't` be afraid and have fun 😉.
@@ -50,7 +50,7 @@
 ```
 ## Semester 2
 ```c
-1. MATH 102
+1. MATH 102 | تفاضل وتكامل (2)
 ```
 ### My tips is      
 * You have to attend the lectures and pay `attention` to it, so the `next mathematics courses` will be `easier` for you. 
@@ -59,7 +59,7 @@
 * https://www.youtube.com/playlist?list=PLjnf2UXBbqZvMsPgz8532dLzvGaKSebIn
 * https://www.youtube.com/watch?v=r-OHCCCwRlI&list=PL8pYI62gCNsW2tmaDJHuqC_U7muWUCdEf&ab_channel=anaHr 
 ```c
-2. MATH 104 
+2. MATH 104 | مفاهيم أساسية في الرياضيات 
 ```
 ### My tips is      
 * An essential introduction to computer science, `don't` neglect it.
@@ -67,27 +67,27 @@
 ### Resources
 * https://www.youtube.com/watch?v=QWDXTJCe3yo&list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S&ab_channel=FCIHOCW    
 ```c
-3. COMP 102
+3. COMP 102 | مقدمة في الحاسب الآلي
 ```
 ### Resources
 * https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji&ab_channel=ElzeroWebSchool
 ```c
-4. COMP 106
+4. COMP 106 | تصميم منطق
 ```
 ### Resources
 * https://www.youtube.com/playlist?list=PLhx4zaYkEjI8BuPybYhAotW2gKDIT9y2D
 ```c
-5. COMP 104
+5. COMP 104 | (برمجة حاسب (1
 ```
 ### My tips is   
 * You will get a little tired at the beginning of learning the first programming language, but when you finish and start any other programming language it will be much easier, so `foucs` on it.
 ### Resources
 * https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD
 ```c
-6. INCO 102
+6. INCO 102 | مدخل في الحاسب الآلي
 ```
 ```c
-7. ENGL 102
+7. ENGL 102 | لغة إنجليزية (1)
 ```
 # Second Year
 
