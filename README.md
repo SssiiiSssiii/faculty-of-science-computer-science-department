@@ -2,7 +2,7 @@
 
 ## Semester 1
 ```c
-1. MATH 101    
+1. MATH 101 | تفاضل وتكامل 1
 ```
 ### My tips is      
 * You have to attend the lectures and pay `attention` to it, so the `next mathematics courses` will be `easier` for you. 
@@ -18,27 +18,27 @@
 * https://www.youtube.com/playlist?list=PL8pYI62gCNsWUhiXetyAEFeJNW4ChNCfH
 
 ```c
-2. PHYS 101
+2. PHYS 101 | فيزياء عامة 1
 ```
 ### Resources
 * https://www.youtube.com/watch?v=EfBhM9OPw9o&list=PLD30uL4tqplH5Lyg6V2VCZCs_CaEdXWA9&ab_channel=Dr.MohamedIsmail    
 * https://www.youtube.com/watch?v=tBfGQNkaoOU&list=PLD30uL4tqplG6o3vAp3ofXet0TXETiziY&ab_channel=Dr.MohamedIsmail    
 * https://www.youtube.com/watch?v=CtjkPkv2Fhk&list=PLD30uL4tqplGqcEvIb_lQkguEFvQ2XZKe&ab_channel=Dr.MohamedIsmail    
 ```c
-3. CHEM 101
+3. CHEM 101 | كيمياء عامة 1
 ````
 ```c
-4. CHEM 103 (lab)
+4. CHEM 103 (lab) | عملي كيمياء عامة 1
 ```
 ### My tips is      
 * Do chemical experiments on your own, `don't` be afraid and have fun 😉.
 ```c
-5. STAT 101
+5. STAT 101 | مقدمة في الإحصاء
 ```
 ### My tips is 
 * Try to apply what you have `learned` in the real life.   
 ```c
-6. SAFS 101
+6. SAFS 101 | الأمن والسلامة
 ```
 ### My tips is    
  * Most of the students do not pay attention to this course, because of its ease or lack of importance (as they say), but I `advise` you to attend and `enjoy`.    
@@ -46,7 +46,7 @@
  ### Resources
 * https://www.youtube.com/watch?v=Y1wBnsZ9Lk0&list=PL2d8gh9EeIUOxHNdWSWgx54QLStLS44zV&ab_channel=abdoscienceChannel   
 ```c
-7. HURI 101
+7. HURI 101 | حقوق الإنسان
 ```
 ## Semester 2
 ```c
