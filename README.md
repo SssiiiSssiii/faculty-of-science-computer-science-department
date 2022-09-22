@@ -82,7 +82,8 @@
 ### My tips is   
 * You will get a little tired at the beginning of learning the first programming language, but when you finish and start any other programming language it will be much easier, so `foucs` on it.
 ### Resources
-* https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD
+* https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD   
+* https://www.youtube.com/watch?v=z1FdInL8sjg&list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3&ab_channel=AdelNasim
 ```c
 6. INCO 102 | مدخل في الحاسب الآلي
 ```
@@ -94,11 +95,34 @@
 ## Semester 1
 ```c
 1. MATH 203
+```
+### Resources
+* https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D
+```c
 2. COMP 201
+```
+### Resources   
+* https://www.youtube.com/playlist?list=PLQhqxquSQptJFBc-7WPWhfFSScnFC-c7y  
+* https://www.youtube.com/playlist?list=PLQhqxquSQptKgs09Jvc0q5hn-ZxlFnb5Y   
+```c
 3. COMP 203
+```
+```c
 4. COMP 205
+```
+### Resources   
+* https://www.youtube.com/watch?v=YMXUxKDziaA&list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow&ab_channel=AdelNasim
+```c
 5. COMP 207
+```
+### Resources   
+* https://www.youtube.com/playlist?list=PL37D52B7714788190
+* https://www.youtube.com/watch?v=-_wLgK0IKfo&list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&ab_channel=%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%84%D8%AF%D8%B3%D9%88%D9%82%D9%89
+* https://www.youtube.com/watch?v=IagHmvW_miA&list=PL5oEwebIvV5llzaLEq3R6WIX1NuNmXxCi&ab_channel=WaelZakaria
+* UzI5uw&list=PL5oEwebIvV5kli15O-Xp-KSl3WykSp3HD&ab_channel=WaelZakaria
+```c
 6. ENGL 201
+```
 ```
 ## Semester 2
 ```c
