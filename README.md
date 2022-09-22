@@ -119,7 +119,7 @@
 * https://www.youtube.com/playlist?list=PL37D52B7714788190
 * https://www.youtube.com/watch?v=-_wLgK0IKfo&list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&ab_channel=%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%84%D8%AF%D8%B3%D9%88%D9%82%D9%89
 * https://www.youtube.com/watch?v=IagHmvW_miA&list=PL5oEwebIvV5llzaLEq3R6WIX1NuNmXxCi&ab_channel=WaelZakaria
-* UzI5uw&list=PL5oEwebIvV5kli15O-Xp-KSl3WykSp3HD&ab_channel=WaelZakaria
+* https://www.youtube.com/playlist?list=PL5oEwebIvV5kli15O-Xp-KSl3WykSp3HD 
 ```c
 6. ENGL 201
 ```
