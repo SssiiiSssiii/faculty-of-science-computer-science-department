@@ -94,26 +94,26 @@
 
 ## Semester 1
 ```c
-1. MATH 203
+1. MATH 203 | جبر خطي
 ```
 ### Resources
 * https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D
 ```c
-2. COMP 201
+2. COMP 201 | تصميم و تحليل الخوارزميات
 ```
 ### Resources   
 * https://www.youtube.com/playlist?list=PLQhqxquSQptJFBc-7WPWhfFSScnFC-c7y  
 * https://www.youtube.com/playlist?list=PLQhqxquSQptKgs09Jvc0q5hn-ZxlFnb5Y   
 ```c
-3. COMP 203
+3. COMP 203 | نظرية الحاسبات 
 ```
 ```c
-4. COMP 205
+4. COMP 205 | برمجة حاسب (2)
 ```
 ### Resources   
 * https://www.youtube.com/watch?v=YMXUxKDziaA&list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow&ab_channel=AdelNasim
 ```c
-5. COMP 207
+5. COMP 207 | نظم قواعد البيانات
 ```
 ### Resources   
 * https://www.youtube.com/playlist?list=PL37D52B7714788190
@@ -121,7 +121,7 @@
 * https://www.youtube.com/watch?v=IagHmvW_miA&list=PL5oEwebIvV5llzaLEq3R6WIX1NuNmXxCi&ab_channel=WaelZakaria
 * https://www.youtube.com/playlist?list=PL5oEwebIvV5kli15O-Xp-KSl3WykSp3HD 
 ```c
-6. ENGL 201
+6. ENGL 201 | لغة إنجليزية (2)
 ```
 ```
 ## Semester 2
