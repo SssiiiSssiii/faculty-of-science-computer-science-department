@@ -165,14 +165,45 @@
 
 ## Semester 1
 ```c
-1. MATH 333
-2. COMP 301
-3. COMP 303
-4. COMP 305
-5. COMP 307
-6. COMP 309
-7. SCTH 301
+1. MATH 333 |
 ```
+### Resources
+* https://www.youtube.com/playlist?list=PLQhqxquSQptKb0N1Gv4GdfHOO4KhGeJwB
+* https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6
+```c
+2. COMP 301 |
+```
+### Resources
+* https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN
+* https://www.youtube.com/playlist?list=PLi1tfWVoMB-jA2yw2XmIVwCBWQkkaRHQM
+```c
+3. COMP 303 |
+```
+### Resources
+* https://www.youtube.com/playlist?list=PLQhqxquSQptJh9muyE7k2XSskr3gDfYWT
+* https://www.youtube.com/playlist?list=PL5oEwebIvV5kVoF3XTyZl9xE4_KwqogoV
+```c
+4. COMP 305 |
+```
+### Resources
+* https://www.youtube.com/playlist?list=PLdUzuimxVcC0DENcdT8mfhI3iRRJLVjqH
+* https://www.youtube.com/playlist?list=PLylTVsqZiRXOpSWvkeuFoj-qzuF3xDiAs
+```c
+5. COMP 307 |
+```
+### Resources 
+* https://www.youtube.com/playlist?list=PLQhqxquSQptJJoszS88l4q1sv6FWgicQD (practical)
+
+```c
+6. COMP 309 |
+```
+### Resources
+* https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY
+```c
+7. SCTH 301 | التفكير العلمي
+```
+### Resources 
+* https://www.youtube.com/playlist?list=PL2d8gh9EeIUMtGraZa9OklZi_CVJxSCDQ
 ## Semester 2
 ```c
 1. COMP 302
