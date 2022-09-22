@@ -206,13 +206,25 @@
 * https://www.youtube.com/playlist?list=PL2d8gh9EeIUMtGraZa9OklZi_CVJxSCDQ
 ## Semester 2
 ```c
-1. COMP 302
-2. COMP 306
-3. COMP 304
-4. COMP 308
-5. COMP 310
-6. COMP 314
-7. ETHR 302
+1. COMP 302 | 
+```
+```c
+2. COMP 306 |
+```
+```c
+3. COMP 304 |
+```
+```c
+4. COMP 308 |
+```
+```c
+5. COMP 310 |
+```
+```c
+6. COMP 314 |
+```
+```c
+7. ETHR 302 |
 ```
 science asu OpenCourseWare
 https://www.youtube.com/channel/UCjdFlM4kCwUzKtbwgICBQtA
