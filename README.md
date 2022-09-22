@@ -208,6 +208,8 @@
 ```c
 1. COMP 302 | تأليفات خوازرمية
 ```
+### Resources 
+* https://www.youtube.com/playlist?list=PLl-gb0E4MII0CsY4AE2xeZwZIkds3jIGs
 ```c
 2. COMP 306 | رسومات الحاسب
 ```
@@ -217,14 +219,23 @@
 ```c
 4. COMP 308 | تشفير
 ```
+### Resources 
+* https://www.youtube.com/playlist?list=PLCl71jt8hcv0RDZmEIEgjT8JgpWI2JY1I
 ```c
 5. COMP 310 | (أندرويد) برمجة ويب متقدمة
 ```
+### Resources 
+* https://www.youtube.com/playlist?list=PLCl71jt8hcv0J81GpnEd0HccPTHCSK-S_
+* https://www.youtube.com/playlist?list=PLCl71jt8hcv3T2U-KUU_iTNtSnNXUE2oA
 ```c
 6. COMP 314 | نظم قواعد بيانات متقدمة
 ```
+### Resources 
+* http s://www.youtube.com/playlist?list=PL5oEwebIvV5m4_S8LYOkoPpH51S2q1_Xy
 ```c
 7. ETHR 302 | أخلاقيات البحث العلمي
 ```
+### Resources 
+* https://www.youtube.com/playlist?list=PL2d8gh9EeIUNNCaBTJpffK2b-YwxWCOGD
 science asu OpenCourseWare
 https://www.youtube.com/channel/UCjdFlM4kCwUzKtbwgICBQtA
