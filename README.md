@@ -117,22 +117,50 @@
 ```
 ### Resources   
 * https://www.youtube.com/playlist?list=PL37D52B7714788190
-* https://www.youtube.com/watch?v=-_wLgK0IKfo&list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&ab_channel=%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%84%D8%AF%D8%B3%D9%88%D9%82%D9%89
-* https://www.youtube.com/watch?v=IagHmvW_miA&list=PL5oEwebIvV5llzaLEq3R6WIX1NuNmXxCi&ab_channel=WaelZakaria
+* https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE
+* https://www.youtube.com/playlist?list=PL5oEwebIvV5llzaLEq3R6WIX1NuNmXxCi
 * https://www.youtube.com/playlist?list=PL5oEwebIvV5kli15O-Xp-KSl3WykSp3HD 
 ```c
 6. ENGL 201 | لغة إنجليزية (2)
 ```
-```
+
 ## Semester 2
 ```c
-1. MATH 202
-2. COMP 202
-3. COMP 204
-4. COMP 206
-5. COMP 208
-6. COMP 210
+1. MATH 202 | معادلات تفاضلية عادية
 ```
+### Resources   
+* https://www.youtube.com/playlist?list=PLR2RsKKRngz6vSNlXJJXj6slpmKNgztNi
+```c
+2. COMP 202 | تراكيب البيانات
+```
+### Resources   
+* https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca
+* https://www.youtube.com/playlist?list=PL5oEwebIvV5kngPuWZamxsu0G5Z7U5hyJ
+```c
+3. COMP 204 | شبكات الحاسب
+```
+### Resources  
+* https://www.youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp
+```c
+4. COMP 206 | برمجة الويب
+```
+### Resources  
+* https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv
+* https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq
+* https://www.youtube.com/playlist?list=PLi1tfWVoMB-jBEiH-WvF79KXWzonVpolr
+```c
+5. COMP 208 | نظرية الأليات الذاتية
+```
+### Resources
+* https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev
+* https://www.youtube.com/playlist?list=PLrCBCI_Do84iJ-kiE1F2trKik2Ts4XelM
+```c
+6. COMP 210 | خوارزميات الرسوم
+```
+### Resources  
+* https://www.youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH
+
+
 # Third Year
 
 ## Semester 1
