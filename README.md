@@ -206,25 +206,25 @@
 * https://www.youtube.com/playlist?list=PL2d8gh9EeIUMtGraZa9OklZi_CVJxSCDQ
 ## Semester 2
 ```c
-1. COMP 302 | 
+1. COMP 302 | تأليفات خوازرمية
 ```
 ```c
-2. COMP 306 |
+2. COMP 306 | رسومات الحاسب
 ```
 ```c
-3. COMP 304 |
+3. COMP 304 | تصميم مؤلفات
 ```
 ```c
-4. COMP 308 |
+4. COMP 308 | تشفير
 ```
 ```c
-5. COMP 310 |
+5. COMP 310 | (أندرويد) برمجة ويب متقدمة
 ```
 ```c
-6. COMP 314 |
+6. COMP 314 | نظم قواعد بيانات متقدمة
 ```
 ```c
-7. ETHR 302 |
+7. ETHR 302 | أخلاقيات البحث العلمي
 ```
 science asu OpenCourseWare
 https://www.youtube.com/channel/UCjdFlM4kCwUzKtbwgICBQtA
