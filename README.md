@@ -236,6 +236,8 @@
 7. ETHR 302 | أخلاقيات البحث العلمي
 ```
 ### Resources 
-* https://www.youtube.com/playlist?list=PL2d8gh9EeIUNNCaBTJpffK2b-YwxWCOGD
+* https://www.youtube.com/playlist?list=PL2d8gh9EeIUNNCaBTJpffK2b-YwxWCOGD    
+
+***
 science asu OpenCourseWare
 https://www.youtube.com/channel/UCjdFlM4kCwUzKtbwgICBQtA
