@@ -111,7 +111,8 @@
 4. COMP 205 | برمجة حاسب (2)
 ```
 ### Resources   
-* https://www.youtube.com/watch?v=YMXUxKDziaA&list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow&ab_channel=AdelNasim
+* https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow
+* https://drive.google.com/drive/u/0/folders/1ZEnLcvUMtI0uRpUVihTaSNM_tHz3M1cG (practical)
 ```c
 5. COMP 207 | نظم قواعد البيانات
 ```
@@ -120,6 +121,7 @@
 * https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE
 * https://www.youtube.com/playlist?list=PL5oEwebIvV5llzaLEq3R6WIX1NuNmXxCi
 * https://www.youtube.com/playlist?list=PL5oEwebIvV5kli15O-Xp-KSl3WykSp3HD 
+* https://drive.google.com/drive/u/0/folders/13Fk2RfdM6tY8ErZcNKTEIfQNAzJRAlbH (practical)
 ```c
 6. ENGL 201 | لغة إنجليزية (2)
 ```
@@ -148,6 +150,7 @@
 * https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv
 * https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq
 * https://www.youtube.com/playlist?list=PLi1tfWVoMB-jBEiH-WvF79KXWzonVpolr
+* https://drive.google.com/drive/u/0/folders/1DptKuGcDSgeekncI58w3Aa1iylvT_oYC (practical)
 ```c
 5. COMP 208 | نظرية الأليات الذاتية
 ```
@@ -176,6 +179,7 @@
 ### Resources
 * https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN
 * https://www.youtube.com/playlist?list=PLi1tfWVoMB-jA2yw2XmIVwCBWQkkaRHQM
+* https://drive.google.com/drive/u/0/folders/1TR8IUjB8tsHmpf4BOCpvqp9VEY-BvU8K (practical)
 ```c
 3. COMP 303 | قواعد ودلالات لغات البرمجة
 ```
@@ -218,6 +222,7 @@
 ```
 ### Resources
 * https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YCSCS1+2T2020/home
+* https://drive.google.com/drive/u/0/folders/1zjv6R9ar2IvwuLnw3ev6jQ2bEIvpSJbK (practical)
 ```c
 4. COMP 308 | تشفير
 ```
