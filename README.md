@@ -192,13 +192,13 @@
 5. COMP 307 | نظم التشغيل
 ```
 ### Resources 
-* https://www.youtube.com/playlist?list=PLQhqxquSQptJJoszS88l4q1sv6FWgicQD (practical)
+* https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY
 
 ```c
 6. COMP 309 | نظم الوسائط المتعددة
 ```
 ### Resources
-* https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY
+* https://www.youtube.com/playlist?list=PLQhqxquSQptJJoszS88l4q1sv6FWgicQD (practical)
 ```c
 7. SCTH 301 | التفكير العلمي
 ```
