@@ -216,6 +216,8 @@
 ```c
 3. COMP 304 | تصميم مؤلفات
 ```
+### Resources
+* https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YCSCS1+2T2020/home
 ```c
 4. COMP 308 | تشفير
 ```
