@@ -1,7 +1,7 @@
 
 # How to use ?
 * academic year &rarr; Semester &rarr; course code
-* 🔴 &rarr; This indicates the course is difficult!
+* 🔴 &rarr; This indicates to the course is difficult!
 
 
 # First Year
