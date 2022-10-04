@@ -239,6 +239,8 @@ https://www.statskingdom.com/combinations-calculator.html
 ```
 ### Resources 
 * https://www.youtube.com/playlist?list=PLCl71jt8hcv0RDZmEIEgjT8JgpWI2JY1I
+### Useful tools
+* https://www.dcode.fr/en
 ```c
 5. COMP 310 | (أندرويد) برمجة ويب متقدمة
 ```
