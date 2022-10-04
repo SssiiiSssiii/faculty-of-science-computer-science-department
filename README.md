@@ -76,6 +76,8 @@
 ```
 ### Resources
 * https://www.youtube.com/playlist?list=PLhx4zaYkEjI8BuPybYhAotW2gKDIT9y2D
+### Useful tools
+* https://www.calculator.net/binary-calculator.html
 ```c
 5. COMP 104 | (برمجة حاسب (1
 ```
@@ -84,6 +86,8 @@
 ### Resources
 * https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD   
 * https://www.youtube.com/watch?v=z1FdInL8sjg&list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3&ab_channel=AdelNasim
+### Useful tools
+* https://ideone.com/
 ```c
 6. INCO 102 | مدخل في الحاسب الآلي
 ```
@@ -157,6 +161,9 @@
 ### Resources
 * https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev
 * https://www.youtube.com/playlist?list=PLrCBCI_Do84iJ-kiE1F2trKik2Ts4XelM
+### Useful tools
+https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
+
 ```c
 6. COMP 210 | خوارزميات الرسوم
 ```
@@ -233,7 +240,6 @@ https://www.statskingdom.com/combinations-calculator.html
 * https://cyberzhg.github.io/toolbox/left_fact
 * https://mikedevice.github.io/first-follow/
 * https://regex101.com/
-* 
 ```c
 4. COMP 308 | تشفير
 ```
@@ -251,7 +257,7 @@ https://www.statskingdom.com/combinations-calculator.html
 6. COMP 314 | نظم قواعد بيانات متقدمة
 ```
 ### Resources 
-* http s://www.youtube.com/playlist?list=PL5oEwebIvV5m4_S8LYOkoPpH51S2q1_Xy
+* https://www.youtube.com/playlist?list=PL5oEwebIvV5m4_S8LYOkoPpH51S2q1_Xy
 ```c
 7. ETHR 302 | أخلاقيات البحث العلمي
 ```
