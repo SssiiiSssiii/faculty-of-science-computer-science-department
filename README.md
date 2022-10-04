@@ -1,7 +1,14 @@
+
+# How to use ?
+* academic year &rarr; Semester &rarr; course code
+* 🔴 &rarr; This indicates the course is difficult!
+
+
 # First Year
 
 ## Semester 1
 ```c
+🔴
 1. MATH 101 | تفاضل وتكامل (1)
 ```
 ### My tips is      
@@ -50,6 +57,7 @@
 ```
 ## Semester 2
 ```c
+🔴
 1. MATH 102 | تفاضل وتكامل (2)
 ```
 ### My tips is      
@@ -98,11 +106,14 @@
 
 ## Semester 1
 ```c
+🔴
 1. MATH 203 | جبر خطي
 ```
 ### Resources
 * https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D
+
 ```c
+🔴
 2. COMP 201 | تصميم و تحليل الخوارزميات
 ```
 ### Resources   
@@ -132,11 +143,13 @@
 
 ## Semester 2
 ```c
+🔴
 1. MATH 202 | معادلات تفاضلية عادية
 ```
 ### Resources   
 * https://www.youtube.com/playlist?list=PLR2RsKKRngz6vSNlXJJXj6slpmKNgztNi
 ```c
+🔴
 2. COMP 202 | تراكيب البيانات
 ```
 ### Resources   
@@ -175,6 +188,7 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 
 ## Semester 1
 ```c
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 1. MATH 333 | الجبر المجرد لعلوم الحاسب
 ```
 ### Resources
@@ -188,12 +202,14 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 * https://www.youtube.com/playlist?list=PLi1tfWVoMB-jA2yw2XmIVwCBWQkkaRHQM
 * https://drive.google.com/drive/u/0/folders/1TR8IUjB8tsHmpf4BOCpvqp9VEY-BvU8K (practical)
 ```c
+🔴
 3. COMP 303 | قواعد ودلالات لغات البرمجة
 ```
 ### Resources
 * https://www.youtube.com/playlist?list=PLQhqxquSQptJh9muyE7k2XSskr3gDfYWT
 * https://www.youtube.com/playlist?list=PL5oEwebIvV5kVoF3XTyZl9xE4_KwqogoV
 ```c
+🔴
 4. COMP 305 | نظرية التعقد
 ```
 ### Resources
@@ -227,6 +243,7 @@ https://www.statskingdom.com/combinations-calculator.html
 2. COMP 306 | رسومات الحاسب
 ```
 ```c
+🔴🔴🔴🔴
 3. COMP 304 | تصميم مؤلفات
 ```
 ### Resources
@@ -241,6 +258,7 @@ https://www.statskingdom.com/combinations-calculator.html
 * https://mikedevice.github.io/first-follow/
 * https://regex101.com/
 ```c
+🔴🔴🔴🔴
 4. COMP 308 | تشفير
 ```
 ### Resources 
