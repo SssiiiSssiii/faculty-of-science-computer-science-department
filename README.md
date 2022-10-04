@@ -212,7 +212,9 @@
 ```c
 1. COMP 302 | تأليفات خوازرمية
 ```
+https://www.statskingdom.com/combinations-calculator.html
 ### Resources 
+### Useful tools
 * https://www.youtube.com/playlist?list=PLl-gb0E4MII0CsY4AE2xeZwZIkds3jIGs
 ```c
 2. COMP 306 | رسومات الحاسب
@@ -223,6 +225,15 @@
 ### Resources
 * https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YCSCS1+2T2020/home
 * https://drive.google.com/drive/u/0/folders/1zjv6R9ar2IvwuLnw3ev6jQ2bEIvpSJbK (practical)
+* https://www.tutorialspoint.com/explain-the-elimination-of-epsilon-productions-in-cfg
+* https://github.com/fool2fish/dragon-book-exercise-answers
+* https://stackoverflow.com/questions/32123003/difference-between-left-right-recursive-left-right-most-derivation-precedence
+### Useful tools
+* https://cyberzhg.github.io/toolbox/left_rec
+* https://cyberzhg.github.io/toolbox/left_fact
+* https://mikedevice.github.io/first-follow/
+* https://regex101.com/
+* 
 ```c
 4. COMP 308 | تشفير
 ```
