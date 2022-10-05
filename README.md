@@ -119,6 +119,7 @@
 ### Resources   
 * https://www.youtube.com/playlist?list=PLQhqxquSQptJFBc-7WPWhfFSScnFC-c7y  
 * https://www.youtube.com/playlist?list=PLQhqxquSQptKgs09Jvc0q5hn-ZxlFnb5Y   
+* https://github.com/SssiiiSssiii/CPP-Problems/tree/CPP/Algorithms (practical)
 ```c
 3. COMP 203 | نظرية الحاسبات 
 ```
