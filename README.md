@@ -249,6 +249,7 @@ https://www.statskingdom.com/combinations-calculator.html
 ### Resources
 * https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YCSCS1+2T2020/home
 * https://drive.google.com/drive/u/0/folders/1zjv6R9ar2IvwuLnw3ev6jQ2bEIvpSJbK (practical)
+* https://github.com/SssiiiSssiii/CPP-Problems/tree/CPP/Compiler (practical)
 * https://www.tutorialspoint.com/explain-the-elimination-of-epsilon-productions-in-cfg
 * https://github.com/fool2fish/dragon-book-exercise-answers
 * https://stackoverflow.com/questions/32123003/difference-between-left-right-recursive-left-right-most-derivation-precedence
@@ -263,6 +264,7 @@ https://www.statskingdom.com/combinations-calculator.html
 ```
 ### Resources 
 * https://www.youtube.com/playlist?list=PLCl71jt8hcv0RDZmEIEgjT8JgpWI2JY1I
+* https://github.com/SssiiiSssiii/CPP-Problems/tree/CPP/Cryptography (practical)
 ### Useful tools
 * https://www.dcode.fr/en
 ```c
