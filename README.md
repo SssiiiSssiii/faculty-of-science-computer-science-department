@@ -2,10 +2,9 @@
 # How to use ?
 * academic year &rarr; Semester &rarr; course code
 * 🔴 &rarr; This indicates to the course is difficult!
-
-
-# First Year
-
+* For newcomers and for those who lost their way and hope of returning.                    
+http://y2u.be/ZHMr5kPjFpk
+# First Year 
 ## Semester 1
 ```c
 🔴
