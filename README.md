@@ -208,7 +208,6 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 ```
 ### Resources
 * https://www.youtube.com/playlist?list=PLQhqxquSQptJh9muyE7k2XSskr3gDfYWT
-* https://www.youtube.com/playlist?list=PL5oEwebIvV5kVoF3XTyZl9xE4_KwqogoV
 ```c
 🔴
 4. COMP 305 | نظرية التعقد
