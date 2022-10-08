@@ -289,3 +289,8 @@ https://www.statskingdom.com/combinations-calculator.html
 ### Drive    
 * https://drive.google.com/drive/u/0/folders/17IucFavvv8Q8wHXRJgg9m00zcwcTIKjX
 
+### You must see it
+* https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB
+* https://www.youtube.com/watch?v=CjUW7LSamkw&list=PLPt2dINI2MIaDS_XRHMR3fHy0OITNV0Wg&ab_channel=ArabicCompetitiveProgramming
+
+
