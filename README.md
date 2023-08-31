@@ -1,7 +1,7 @@
 
 # How to use ?
 * academic year &rarr; Semester &rarr; course code
-* 🔴 &rarr; This indicates to the course is difficult!
+* 🔴 &rarr; Difficulty Index!
 * For newcomers and for those who lost their way and hope of returning.                    
 http://y2u.be/ZHMr5kPjFpk   
 * في خلال رحلتك في علوم الحاسب لازم تشوف دول    
