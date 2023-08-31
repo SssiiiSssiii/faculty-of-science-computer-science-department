@@ -291,22 +291,29 @@ https://www.statskingdom.com/combinations-calculator.html
 1. COMP 401 | ذكاء اصطناعي
 ```
 ### Resources
+* https://drive.google.com/drive/u/0/folders/1PS_kzFZ-3j0PUpzpGY1W-ZDY395y2EHA
 ```c
 2. COMP 403 | المعالحة المتوازية والموزعة
 ```
 ### Resources
+* https://www.youtube.com/watch?v=mxuJ3T5mSvQ&list=PLQhqxquSQptJbJxQcXaGd9WZtaqFnsOZI&pp=gAQBiAQB (Lab)
+
 ```c
 3. COMP 407 | معالجة الصور
 ```
 ### Resources
+* https://drive.google.com/drive/u/0/folders/16zi2Ixhm4mpCpBTsYC-ED7yCfMAfHI7u
 ```c
 3. COMP 409 | أمن الشبكات
 ```
 ### Resources
+* https://drive.google.com/drive/u/0/folders/1xBYfbtE6GzMaX3F6U5BaXbB9ThW3vCAO
+* https://www.youtube.com/watch?v=FeQvVoUA_60&list=PLCl71jt8hcv1LESEuJzmGGrYjeXuLcvlq&pp=iAQB
 ```c
 3. COMP 411 | الهندسة الحسابية
 ```
 ### Resources
+* https://drive.google.com/drive/u/0/folders/1b6GrPzxd9PQkZZA8FnjOebO6rxzo2tLc
 ```c
 3. COMP 405 | (أ)مشروع حاسب
 ```
@@ -315,7 +322,8 @@ https://www.statskingdom.com/combinations-calculator.html
 3. SKILL 401 | مهارات العمل
 ```
 ### Resources
-
+* https://www.youtube.com/watch?v=jv8e8joTVJ8&list=PL2d8gh9EeIUPUKq26EhLiYt4RdO9XOpCX&ab_channel=abdoscienceChannel
+* https://drive.google.com/drive/u/0/folders/1ct2z8dc6hmtk6dQ3P5pQRH4ZmhMYHA9G
 
 ***
 ### science asu OpenCourseWare
