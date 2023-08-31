@@ -302,6 +302,7 @@ https://www.statskingdom.com/combinations-calculator.html
 * https://www.youtube.com/watch?v=mxuJ3T5mSvQ&list=PLQhqxquSQptJbJxQcXaGd9WZtaqFnsOZI&pp=gAQBiAQB (Lab)
 
 ```c
+🔴🔴
 3. COMP 407 | معالجة الصور
 ```
 ### Resources
@@ -320,7 +321,12 @@ https://www.statskingdom.com/combinations-calculator.html
 ```c
 3. COMP 405 | (أ)مشروع حاسب
 ```
-### Resources
+* Need a hard worker.
+* Learn gitHub.
+* The team that communicates `well` with little knowledge is better than the team that `doesn't` communicate well despite having a lot of knowledge.
+* Develop your search skills.
+* Imporve your soft skills
+* Do not be afraid.
 ```c
 3. SKILL 401 | مهارات العمل
 ```
