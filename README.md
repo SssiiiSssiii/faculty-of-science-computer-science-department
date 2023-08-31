@@ -283,6 +283,39 @@ https://www.statskingdom.com/combinations-calculator.html
 ### Resources 
 * https://www.youtube.com/playlist?list=PL2d8gh9EeIUNNCaBTJpffK2b-YwxWCOGD    
 
+
+# Fourth  Year
+
+## Semester 1
+```c
+1. COMP 401 | ذكاء اصطناعي
+```
+### Resources
+```c
+2. COMP 403 | المعالحة المتوازية والموزعة
+```
+### Resources
+```c
+3. COMP 407 | معالجة الصور
+```
+### Resources
+```c
+3. COMP 409 | أمن الشبكات
+```
+### Resources
+```c
+3. COMP 411 | الهندسة الحسابية
+```
+### Resources
+```c
+3. COMP 411 | الهندسة الحسابية
+```
+### Resources
+```c
+3. COMP 405 | (أ)مشروع حاسب
+```
+### Resources
+
 ***
 ### science asu OpenCourseWare
 * https://www.youtube.com/channel/UCjdFlM4kCwUzKtbwgICBQtA    
