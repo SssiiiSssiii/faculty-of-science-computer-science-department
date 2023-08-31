@@ -3,7 +3,10 @@
 * academic year &rarr; Semester &rarr; course code
 * 🔴 &rarr; This indicates to the course is difficult!
 * For newcomers and for those who lost their way and hope of returning.                    
-http://y2u.be/ZHMr5kPjFpk
+http://y2u.be/ZHMr5kPjFpk   
+* في خلال رحلتك في علوم الحاسب لازم تشوف دول    
+. https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB            
+. https://www.youtube.com/watch?v=CjUW7LSamkw&list=PLPt2dINI2MIaDS_XRHMR3fHy0OITNV0Wg&pp=iAQB       
 # First Year 
 ## Semester 1
 ```c
@@ -330,9 +333,5 @@ https://www.statskingdom.com/combinations-calculator.html
 * https://www.youtube.com/channel/UCjdFlM4kCwUzKtbwgICBQtA    
 ### Drive    
 * https://drive.google.com/drive/u/0/folders/17IucFavvv8Q8wHXRJgg9m00zcwcTIKjX
-
-### You must see it
-* https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB
-* https://www.youtube.com/c/ArabicCompetitiveProgramming
 
 
