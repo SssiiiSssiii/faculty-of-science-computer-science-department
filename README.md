@@ -308,13 +308,14 @@ https://www.statskingdom.com/combinations-calculator.html
 ```
 ### Resources
 ```c
-3. COMP 411 | الهندسة الحسابية
-```
-### Resources
-```c
 3. COMP 405 | (أ)مشروع حاسب
 ```
 ### Resources
+```c
+3. SKILL 401 | مهارات العمل
+```
+### Resources
+
 
 ***
 ### science asu OpenCourseWare
