@@ -6,8 +6,8 @@
 * For newcomers and for those who lost their way and hope of returning.                    
 http://y2u.be/ZHMr5kPjFpk   
 * في خلال رحلتك في علوم الحاسب لازم تشوف دول             
-. https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB            
-. https://www.youtube.com/watch?v=CjUW7LSamkw&list=PLPt2dINI2MIaDS_XRHMR3fHy0OITNV0Wg&pp=iAQB       
+  * https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB            
+  * https://www.youtube.com/watch?v=CjUW7LSamkw&list=PLPt2dINI2MIaDS_XRHMR3fHy0OITNV0Wg&pp=iAQB       
 # First Year 
 ## Semester 1
 ```c
@@ -350,12 +350,13 @@ https://www.statskingdom.com/combinations-calculator.html
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 3. COMP 405 | (أ)مشروع حاسب
 ```
-* Need a hard worker.
-* Learn gitHub.
-* The team that communicates `well` with little knowledge is better than the team that `doesn't` communicate well despite having a lot of knowledge.
-* Develop your search skills.
-* Imporve your soft skills.
-* Do not be afraid.
+* لازم تكون ذو همة وعزمية.
+* دا أول وأهم مشروع هتشتغل عليه في الكلية.
+* أتعلم الجيتهاب
+* وأنت بتختار فريق العمل لازم تختار اللي بتعرف تتعامل معاهم أفضل من الناس الشاطرة ومبتعرفش تتعامل معاهم وأفتكر إنكم هتقضوا سنة كاملة مع بعض.
+* طور مهاراتك في البحث والإعتماد على نفسك.
+* طور مهارات التواصل والشرح والتقديم عندك.
+* متخافش :)
 ```c
 🔵🔵🔵🔵🔵🔵
 3. SKILL 401 | مهارات العمل
