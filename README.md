@@ -1,10 +1,10 @@
 
 # How to use ?
-* academic year &rarr; Semester &rarr; course code
-* 🔴 &rarr; Difficulty Index!
+* Academic year &rarr; Semester &rarr; Course code
+* 🔴 &rarr; مؤشر الصعوبة
 * For newcomers and for those who lost their way and hope of returning.                    
 http://y2u.be/ZHMr5kPjFpk   
-* في خلال رحلتك في علوم الحاسب لازم تشوف دول    
+* في خلال رحلتك في علوم الحاسب لازم تشوف دول.          
 . https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB            
 . https://www.youtube.com/watch?v=CjUW7LSamkw&list=PLPt2dINI2MIaDS_XRHMR3fHy0OITNV0Wg&pp=iAQB       
 # First Year 
@@ -286,7 +286,6 @@ https://www.statskingdom.com/combinations-calculator.html
 ### Resources 
 * https://www.youtube.com/playlist?list=PL2d8gh9EeIUNNCaBTJpffK2b-YwxWCOGD    
 
-
 # Fourth  Year
 
 ## Semester 1
@@ -295,7 +294,10 @@ https://www.statskingdom.com/combinations-calculator.html
 ```
 ### Resources
 * https://drive.google.com/drive/u/0/folders/1PS_kzFZ-3j0PUpzpGY1W-ZDY395y2EHA
+### Tips
+* لازم تحضر
 ```c
+🔴
 2. COMP 403 | المعالحة المتوازية والموزعة
 ```
 ### Resources
@@ -330,7 +332,7 @@ https://www.statskingdom.com/combinations-calculator.html
 * Learn gitHub.
 * The team that communicates `well` with little knowledge is better than the team that `doesn't` communicate well despite having a lot of knowledge.
 * Develop your search skills.
-* Imporve your soft skills
+* Imporve your soft skills.
 * Do not be afraid.
 ```c
 3. SKILL 401 | مهارات العمل
