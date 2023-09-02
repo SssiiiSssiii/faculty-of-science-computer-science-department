@@ -309,8 +309,9 @@ https://www.statskingdom.com/combinations-calculator.html
 ### Resources
 * https://drive.google.com/drive/u/0/folders/16zi2Ixhm4mpCpBTsYC-ED7yCfMAfHI7u
 * https://sciasuedu-my.sharepoint.com/:f:/g/personal/hewayda_lotfy_sci_asu_edu_eg/ErHtUdUm9d9DsYobROEayr8BbpR4i01UHMvjTlxgNOd9aQ?e=PFmXzx (Videos'Dr)
-* https://www.mathworks.com/products/matlab-online.html (Lab)
-
+* https://www.youtube.com/watch?v=rFy9trjFgxc&list=PLpi2rI8TUwE3RWk_A0rrYKQTcnPkpYTtl&pp=iAQB (الأساسيات فقط)   
+### Useful tools  
+* * https://www.mathworks.com/products/matlab-online.html 
 ```c
 3. COMP 409 | أمن الشبكات
 ```
