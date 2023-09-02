@@ -74,7 +74,7 @@ http://y2u.be/ZHMr5kPjFpk
 2. MATH 104 | مفاهيم أساسية في الرياضيات 
 ```
 ### My tips is      
-* أهم موضوع في بداية تعلم البرمجة ولازم تهتم بيها جدا.
+* أهم موضوع في بداية تعلم علوم الحاسب ولازم تهتم بيها جدا.
 * Enjoy.
 ### Resources
 * https://www.youtube.com/watch?v=QWDXTJCe3yo&list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S&ab_channel=FCIHOCW    
