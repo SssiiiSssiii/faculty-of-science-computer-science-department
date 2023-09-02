@@ -2,6 +2,7 @@
 # How to use ?
 * Academic year &rarr; Semester &rarr; Course code
 * 🔴 &rarr; مؤشر الصعوبة
+* 🔵 &arr; مؤشر الأهمية
 * For newcomers and for those who lost their way and hope of returning.                    
 http://y2u.be/ZHMr5kPjFpk   
 * في خلال رحلتك في علوم الحاسب لازم تشوف دول.          
@@ -69,10 +70,11 @@ http://y2u.be/ZHMr5kPjFpk
 * https://www.youtube.com/playlist?list=PLjnf2UXBbqZvMsPgz8532dLzvGaKSebIn
 * https://www.youtube.com/watch?v=r-OHCCCwRlI&list=PL8pYI62gCNsW2tmaDJHuqC_U7muWUCdEf&ab_channel=anaHr 
 ```c
+🔵🔵🔵🔵🔵🔵
 2. MATH 104 | مفاهيم أساسية في الرياضيات 
 ```
 ### My tips is      
-* An essential introduction to computer science, `don't` neglect it.
+* أهم موضوع في بداية تعلم البرمجة ولازم تهتم بيها جدا.
 * Enjoy.
 ### Resources
 * https://www.youtube.com/watch?v=QWDXTJCe3yo&list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S&ab_channel=FCIHOCW    
@@ -82,6 +84,7 @@ http://y2u.be/ZHMr5kPjFpk
 ### Resources
 * https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji&ab_channel=ElzeroWebSchool
 ```c
+🔵🔵🔵
 4. COMP 106 | تصميم منطق
 ```
 ### Resources
@@ -89,10 +92,11 @@ http://y2u.be/ZHMr5kPjFpk
 ### Useful tools
 * https://www.calculator.net/binary-calculator.html
 ```c
+🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 5. COMP 104 | (برمجة حاسب (1
 ```
 ### My tips is   
-* You will get a little tired at the beginning of learning the first programming language, but when you finish and start any other programming language it will be much easier, so `foucs` on it.
+* أول لغة برمجة هتتعلمها فلازم تتقنها كويس جدا عشان هيفرق معاك تعلم أي لغة تانية قدام.
 ### Resources
 * https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD   
 * https://www.youtube.com/watch?v=z1FdInL8sjg&list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3&ab_channel=AdelNasim
@@ -290,6 +294,7 @@ https://www.statskingdom.com/combinations-calculator.html
 
 ## Semester 1
 ```c
+🔵🔵
 1. COMP 401 | ذكاء اصطناعي
 ```
 ### Resources
@@ -298,6 +303,7 @@ https://www.statskingdom.com/combinations-calculator.html
 * لازم تحضر
 ```c
 🔴
+🔵🔵
 2. COMP 403 | المعالحة المتوازية والموزعة
 ```
 ### Resources
@@ -328,6 +334,7 @@ https://www.statskingdom.com/combinations-calculator.html
 ### Resources
 * https://drive.google.com/drive/u/0/folders/1b6GrPzxd9PQkZZA8FnjOebO6rxzo2tLc
 ```c
+🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 3. COMP 405 | (أ)مشروع حاسب
 ```
 * Need a hard worker.
@@ -337,6 +344,7 @@ https://www.statskingdom.com/combinations-calculator.html
 * Imporve your soft skills.
 * Do not be afraid.
 ```c
+🔵🔵🔵🔵🔵🔵
 3. SKILL 401 | مهارات العمل
 ```
 ### Resources
