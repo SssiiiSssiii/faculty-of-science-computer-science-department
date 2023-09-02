@@ -121,7 +121,7 @@ http://y2u.be/ZHMr5kPjFpk
 ### Resources   
 * https://www.youtube.com/playlist?list=PLQhqxquSQptJFBc-7WPWhfFSScnFC-c7y  
 * https://www.youtube.com/playlist?list=PLQhqxquSQptKgs09Jvc0q5hn-ZxlFnb5Y   
-* https://github.com/SssiiiSssiii/CPP-Problems/tree/CPP/Algorithms (practical)
+* https://github.com/SssiiiSssiii/CPP-Problems/tree/CPP/Algorithms (Lab)
 ```c
 3. COMP 203 | نظرية الحاسبات 
 ```
@@ -130,7 +130,7 @@ http://y2u.be/ZHMr5kPjFpk
 ```
 ### Resources   
 * https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow
-* https://drive.google.com/drive/u/0/folders/1ZEnLcvUMtI0uRpUVihTaSNM_tHz3M1cG (practical)
+* https://drive.google.com/drive/u/0/folders/1ZEnLcvUMtI0uRpUVihTaSNM_tHz3M1cG (Lab)
 ```c
 5. COMP 207 | نظم قواعد البيانات
 ```
@@ -139,7 +139,7 @@ http://y2u.be/ZHMr5kPjFpk
 * https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE
 * https://www.youtube.com/playlist?list=PL5oEwebIvV5llzaLEq3R6WIX1NuNmXxCi
 * https://www.youtube.com/playlist?list=PL5oEwebIvV5kli15O-Xp-KSl3WykSp3HD 
-* https://drive.google.com/drive/u/0/folders/13Fk2RfdM6tY8ErZcNKTEIfQNAzJRAlbH (practical)
+* https://drive.google.com/drive/u/0/folders/13Fk2RfdM6tY8ErZcNKTEIfQNAzJRAlbH (Lab)
 ```c
 6. ENGL 201 | لغة إنجليزية (2)
 ```
@@ -170,7 +170,7 @@ http://y2u.be/ZHMr5kPjFpk
 * https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv
 * https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq
 * https://www.youtube.com/playlist?list=PLi1tfWVoMB-jBEiH-WvF79KXWzonVpolr
-* https://drive.google.com/drive/u/0/folders/1DptKuGcDSgeekncI58w3Aa1iylvT_oYC (practical)
+* https://drive.google.com/drive/u/0/folders/1DptKuGcDSgeekncI58w3Aa1iylvT_oYC (Lab)
 ```c
 5. COMP 208 | نظرية الأليات الذاتية
 ```
@@ -203,7 +203,7 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 ### Resources
 * https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN
 * https://www.youtube.com/playlist?list=PLi1tfWVoMB-jA2yw2XmIVwCBWQkkaRHQM
-* https://drive.google.com/drive/u/0/folders/1TR8IUjB8tsHmpf4BOCpvqp9VEY-BvU8K (practical)
+* https://drive.google.com/drive/u/0/folders/1TR8IUjB8tsHmpf4BOCpvqp9VEY-BvU8K (Lab)
 ```c
 🔴
 3. COMP 303 | قواعد ودلالات لغات البرمجة
@@ -227,7 +227,7 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 6. COMP 309 | نظم الوسائط المتعددة
 ```
 ### Resources
-* https://www.youtube.com/playlist?list=PLQhqxquSQptJJoszS88l4q1sv6FWgicQD (practical)
+* https://www.youtube.com/playlist?list=PLQhqxquSQptJJoszS88l4q1sv6FWgicQD (Lab)
 ```c
 7. SCTH 301 | التفكير العلمي
 ```
@@ -250,8 +250,8 @@ https://www.statskingdom.com/combinations-calculator.html
 ```
 ### Resources
 * https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YCSCS1+2T2020/home
-* https://drive.google.com/drive/u/0/folders/1zjv6R9ar2IvwuLnw3ev6jQ2bEIvpSJbK (practical)
-* https://github.com/SssiiiSssiii/CPP-Problems/tree/CPP/Compiler (practical)
+* https://drive.google.com/drive/u/0/folders/1zjv6R9ar2IvwuLnw3ev6jQ2bEIvpSJbK (Lab)
+* https://github.com/SssiiiSssiii/CPP-Problems/tree/CPP/Compiler (Lab)
 * https://www.tutorialspoint.com/explain-the-elimination-of-epsilon-productions-in-cfg
 * https://github.com/fool2fish/dragon-book-exercise-answers
 * https://stackoverflow.com/questions/32123003/difference-between-left-right-recursive-left-right-most-derivation-precedence
@@ -266,7 +266,7 @@ https://www.statskingdom.com/combinations-calculator.html
 ```
 ### Resources 
 * https://www.youtube.com/playlist?list=PLCl71jt8hcv0RDZmEIEgjT8JgpWI2JY1I
-* https://github.com/SssiiiSssiii/CPP-Problems/tree/CPP/Cryptography (practical)
+* https://github.com/SssiiiSssiii/CPP-Problems/tree/CPP/Cryptography (Lab)
 ### Useful tools
 * https://www.dcode.fr/en
 ```c
