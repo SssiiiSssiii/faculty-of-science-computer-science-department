@@ -5,7 +5,7 @@
 * 🔵 &arr; مؤشر الأهمية
 * For newcomers and for those who lost their way and hope of returning.                    
 http://y2u.be/ZHMr5kPjFpk   
-* في خلال رحلتك في علوم الحاسب لازم تشوف دول.          
+* في خلال رحلتك في علوم الحاسب لازم تشوف دول             
 . https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB            
 . https://www.youtube.com/watch?v=CjUW7LSamkw&list=PLPt2dINI2MIaDS_XRHMR3fHy0OITNV0Wg&pp=iAQB       
 # First Year 
