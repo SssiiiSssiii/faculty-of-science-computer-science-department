@@ -119,7 +119,8 @@ http://y2u.be/ZHMr5kPjFpk
 * https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D
 
 ```c
-🔴
+🔴🔴🔴🔴
+🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 2. COMP 201 | تصميم و تحليل الخوارزميات
 ```
 ### Resources   
@@ -130,12 +131,14 @@ http://y2u.be/ZHMr5kPjFpk
 3. COMP 203 | نظرية الحاسبات 
 ```
 ```c
+🔵🔵🔵🔵🔵🔵🔵
 4. COMP 205 | برمجة حاسب (2)
 ```
 ### Resources   
 * https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow
 * https://drive.google.com/drive/u/0/folders/1ZEnLcvUMtI0uRpUVihTaSNM_tHz3M1cG (Lab)
 ```c
+🔵🔵🔵
 5. COMP 207 | نظم قواعد البيانات
 ```
 ### Resources   
@@ -156,7 +159,8 @@ http://y2u.be/ZHMr5kPjFpk
 ### Resources   
 * https://www.youtube.com/playlist?list=PLR2RsKKRngz6vSNlXJJXj6slpmKNgztNi
 ```c
-🔴
+🔴🔴🔴🔴
+🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 2. COMP 202 | تراكيب البيانات
 ```
 ### Resources   
@@ -185,6 +189,7 @@ http://y2u.be/ZHMr5kPjFpk
 https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 
 ```c
+🔵🔵
 6. COMP 210 | خوارزميات الرسوم
 ```
 ### Resources  
@@ -196,6 +201,7 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 ## Semester 1
 ```c
 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+🔵🔵
 1. MATH 333 | الجبر المجرد لعلوم الحاسب
 ```
 ### Resources
@@ -209,13 +215,15 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 * https://www.youtube.com/playlist?list=PLi1tfWVoMB-jA2yw2XmIVwCBWQkkaRHQM
 * https://drive.google.com/drive/u/0/folders/1TR8IUjB8tsHmpf4BOCpvqp9VEY-BvU8K (Lab)
 ```c
-🔴
+🔴🔴🔴
+🔵🔵
 3. COMP 303 | قواعد ودلالات لغات البرمجة
 ```
 ### Resources
 * https://www.youtube.com/playlist?list=PLQhqxquSQptJh9muyE7k2XSskr3gDfYWT
 ```c
 🔴
+🔵🔵
 4. COMP 305 | نظرية التعقد
 ```
 ### Resources
@@ -239,6 +247,8 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 * https://www.youtube.com/playlist?list=PL2d8gh9EeIUMtGraZa9OklZi_CVJxSCDQ
 ## Semester 2
 ```c
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+🔵🔵🔵
 1. COMP 302 | تأليفات خوازرمية
 ```
 https://www.statskingdom.com/combinations-calculator.html
@@ -266,6 +276,7 @@ https://www.statskingdom.com/combinations-calculator.html
 * https://regex101.com/
 ```c
 🔴🔴🔴🔴
+🔵
 4. COMP 308 | تشفير
 ```
 ### Resources 
@@ -280,11 +291,13 @@ https://www.statskingdom.com/combinations-calculator.html
 * https://www.youtube.com/playlist?list=PLCl71jt8hcv0J81GpnEd0HccPTHCSK-S_
 * https://www.youtube.com/playlist?list=PLCl71jt8hcv3T2U-KUU_iTNtSnNXUE2oA
 ```c
+🔵
 6. COMP 314 | نظم قواعد بيانات متقدمة
 ```
 ### Resources 
 * https://www.youtube.com/playlist?list=PL5oEwebIvV5m4_S8LYOkoPpH51S2q1_Xy
 ```c
+🔵🔵🔵🔵
 7. ETHR 302 | أخلاقيات البحث العلمي
 ```
 ### Resources 
