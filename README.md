@@ -313,7 +313,7 @@ https://www.statskingdom.com/combinations-calculator.html
 * https://sciasuedu-my.sharepoint.com/:f:/g/personal/hewayda_lotfy_sci_asu_edu_eg/ErHtUdUm9d9DsYobROEayr8BbpR4i01UHMvjTlxgNOd9aQ?e=PFmXzx (Videos'Dr)
 * https://www.youtube.com/watch?v=rFy9trjFgxc&list=PLpi2rI8TUwE3RWk_A0rrYKQTcnPkpYTtl&pp=iAQB (الأساسيات فقط)   
 ### Useful tools  
-* * https://www.mathworks.com/products/matlab-online.html 
+* https://www.mathworks.com/products/matlab-online.html 
 ```c
 3. COMP 409 | أمن الشبكات
 ```
