@@ -294,7 +294,7 @@ https://www.statskingdom.com/combinations-calculator.html
 ```
 ### Resources
 * https://drive.google.com/drive/u/0/folders/1PS_kzFZ-3j0PUpzpGY1W-ZDY395y2EHA
-### Tips
+### نصائح
 * لازم تحضر
 ```c
 🔴
