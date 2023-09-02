@@ -1,8 +1,8 @@
 
 # How to use ?
 * Academic year &rarr; Semester &rarr; Course code
-* 🔴 &rarr; مؤشر الصعوبة
-* 🔵 &arr; مؤشر الأهمية
+* 🔴 &rarr; مؤشر الصعوبة    
+* 🔵 &rarr; مؤشر الأهمية  
 * For newcomers and for those who lost their way and hope of returning.                    
 http://y2u.be/ZHMr5kPjFpk   
 * في خلال رحلتك في علوم الحاسب لازم تشوف دول             
