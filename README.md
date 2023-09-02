@@ -320,6 +320,8 @@ https://www.statskingdom.com/combinations-calculator.html
 ### Resources
 * https://drive.google.com/drive/u/0/folders/1xBYfbtE6GzMaX3F6U5BaXbB9ThW3vCAO
 * https://www.youtube.com/watch?v=FeQvVoUA_60&list=PLCl71jt8hcv1LESEuJzmGGrYjeXuLcvlq&pp=iAQB
+  ### Useful tools
+  * https://www.hacksplaining.com/
 ```c
 3. COMP 411 | الهندسة الحسابية
 ```
