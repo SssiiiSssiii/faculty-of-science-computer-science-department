@@ -10,11 +10,11 @@ http://y2u.be/ZHMr5kPjFpk
 # First Year 
 ## Semester 1
 ```c
-🔴
+🔴🔴
 1. MATH 101 | تفاضل وتكامل (1)
 ```
-### My tips is      
-* You have to attend the lectures and pay `attention` to it, so the `next mathematics courses` will be `easier` for you. 
+### نصائح
+* أنت ممكن تتعامل مع كل المواد عادي بس مواد الرياضيات `لازم تحضرها` وتهتم بيها بزيادة عشان تريحك في مواد الرياضيات `قدام` ;)   
 ### Resources
 * https://www.youtube.com/watch?v=pqZvxYKSMnc&ab_channel=anaHr (Motivation)
 * https://www.youtube.com/playlist?list=PLjnf2UXBbqZuFoGpRFvj7P19BXb42BVj0  
@@ -39,8 +39,8 @@ http://y2u.be/ZHMr5kPjFpk
 ```c
 4. CHEM 103 (lab) | عملي كيمياء عامة (1)
 ```
-### My tips is      
-* Do chemical experiments on your own, `don't` be afraid and have fun 😉.
+### نصائح  
+* من أكتر الحاجات `الممتعة` في الأربع سنين هي المعامل وبالأخص معمل الكيمياء، لازم تعمل التجربة لوحدك و`متخافش`.
 ```c
 5. STAT 101 | مقدمة في الإحصاء
 ```
