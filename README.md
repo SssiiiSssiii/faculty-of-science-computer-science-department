@@ -313,13 +313,14 @@ https://www.statskingdom.com/combinations-calculator.html
 ### Resources
 * https://drive.google.com/drive/u/0/folders/1PS_kzFZ-3j0PUpzpGY1W-ZDY395y2EHA
 ### نصائح
-* لازم تحضر
+* لازم تحضر.
 ```c
 🔴
 🔵🔵
 2. COMP 403 | المعالحة المتوازية والموزعة
 ```
 ### Resources
+* https://drive.google.com/drive/u/0/folders/1pZqgZcXMPLRB732evKqeK-Ow60Hh_sIg
 * https://www.youtube.com/watch?v=mxuJ3T5mSvQ&list=PLQhqxquSQptJbJxQcXaGd9WZtaqFnsOZI&pp=gAQBiAQB (Lab)
 * https://bit.ly/3SKe7sk (Lab)
 
@@ -329,7 +330,7 @@ https://www.statskingdom.com/combinations-calculator.html
 ```
 ### Resources
 * https://drive.google.com/drive/u/0/folders/16zi2Ixhm4mpCpBTsYC-ED7yCfMAfHI7u
-* https://sciasuedu-my.sharepoint.com/:f:/g/personal/hewayda_lotfy_sci_asu_edu_eg/ErHtUdUm9d9DsYobROEayr8BbpR4i01UHMvjTlxgNOd9aQ?e=PFmXzx (Videos'Dr)
+* https://sciasuedu-my.sharepoint.com/:f:/g/personal/hewayda_lotfy_sci_asu_edu_eg/ErHtUdUm9d9DsYobROEayr8BbpR4i01UHMvjTlxgNOd9aQ?e=PFmXzx (Dr's videos)
 * https://www.youtube.com/watch?v=rFy9trjFgxc&list=PLpi2rI8TUwE3RWk_A0rrYKQTcnPkpYTtl&pp=iAQB (الأساسيات فقط)   
 ### Useful tools  
 * https://www.mathworks.com/products/matlab-online.html 
