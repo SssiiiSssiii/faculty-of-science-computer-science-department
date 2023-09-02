@@ -44,14 +44,13 @@ http://y2u.be/ZHMr5kPjFpk
 ```c
 5. STAT 101 | مقدمة في الإحصاء
 ```
-### My tips is 
-* Try to apply what you have `learned` in the real life.   
+### نصائح  
+* حاول تطبق الأفكار اللي في المقرر على أرض الواقع.
 ```c
 6. SAFS 101 | الأمن والسلامة
 ```
-### My tips is    
- * Most of the students do not pay attention to this course, because of its ease or lack of importance (as they say), but I `advise` you to attend and `enjoy`.    
- * This course will `change` the way you think.
+### نصائح
+* أغلب الطلبة مش بتحضر المقرر دا ولكن المقرر دا هيغير طريقة تفكيرك.
  ### Resources
 * https://www.youtube.com/watch?v=Y1wBnsZ9Lk0&list=PL2d8gh9EeIUOxHNdWSWgx54QLStLS44zV&ab_channel=abdoscienceChannel   
 ```c
@@ -62,8 +61,9 @@ http://y2u.be/ZHMr5kPjFpk
 🔴
 1. MATH 102 | تفاضل وتكامل (2)
 ```
-### My tips is      
-* You have to attend the lectures and pay `attention` to it, so the `next mathematics courses` will be `easier` for you. 
+
+### نصائح
+* أنت ممكن تتعامل مع كل المواد عادي بس مواد الرياضيات `لازم تحضرها` وتهتم بيها بزيادة عشان تريحك في مواد الرياضيات `قدام` ;)   
 
 ### Resources
 * https://www.youtube.com/playlist?list=PLjnf2UXBbqZvMsPgz8532dLzvGaKSebIn
