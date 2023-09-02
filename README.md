@@ -300,6 +300,7 @@ https://www.statskingdom.com/combinations-calculator.html
 ```
 ### Resources
 * https://www.youtube.com/watch?v=mxuJ3T5mSvQ&list=PLQhqxquSQptJbJxQcXaGd9WZtaqFnsOZI&pp=gAQBiAQB (Lab)
+* https://bit.ly/3SKe7sk (Lab)
 
 ```c
 🔴🔴
@@ -307,6 +308,9 @@ https://www.statskingdom.com/combinations-calculator.html
 ```
 ### Resources
 * https://drive.google.com/drive/u/0/folders/16zi2Ixhm4mpCpBTsYC-ED7yCfMAfHI7u
+* https://sciasuedu-my.sharepoint.com/:f:/g/personal/hewayda_lotfy_sci_asu_edu_eg/ErHtUdUm9d9DsYobROEayr8BbpR4i01UHMvjTlxgNOd9aQ?e=PFmXzx (Videos'Dr)
+* https://www.mathworks.com/products/matlab-online.html (Lab)
+
 ```c
 3. COMP 409 | أمن الشبكات
 ```
