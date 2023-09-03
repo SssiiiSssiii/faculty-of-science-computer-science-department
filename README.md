@@ -323,6 +323,7 @@ https://www.statskingdom.com/combinations-calculator.html
 * https://drive.google.com/drive/u/0/folders/1pZqgZcXMPLRB732evKqeK-Ow60Hh_sIg
 * https://www.youtube.com/watch?v=mxuJ3T5mSvQ&list=PLQhqxquSQptJbJxQcXaGd9WZtaqFnsOZI&pp=gAQBiAQB (Lab)
 * https://bit.ly/3SKe7sk (Lab)
+* https://github.com/SssiiiSssiii/CPP-Problems/tree/CPP/Parallel%20and%20distributed%20processing (Lab)
 
 ```c
 🔴🔴
