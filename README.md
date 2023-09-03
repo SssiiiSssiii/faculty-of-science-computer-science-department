@@ -342,7 +342,7 @@ https://www.statskingdom.com/combinations-calculator.html
 * https://drive.google.com/drive/u/0/folders/1xBYfbtE6GzMaX3F6U5BaXbB9ThW3vCAO
 * https://www.youtube.com/watch?v=FeQvVoUA_60&list=PLCl71jt8hcv1LESEuJzmGGrYjeXuLcvlq&pp=iAQB
 ### Useful tools
-  * https://www.hacksplaining.com/
+  * https://www.hacksplaining.com/ (الأفضل انك تشتغل طول السنة أونلاين بلاش تحمل البرنامج)
 ```c
 3. COMP 411 | الهندسة الحسابية
 ```
