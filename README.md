@@ -73,7 +73,7 @@ http://y2u.be/ZHMr5kPjFpk
 🔵🔵🔵🔵🔵🔵
 2. MATH 104 | مفاهيم أساسية في الرياضيات 
 ```
-### My tips is      
+### نصائح     
 * أهم موضوع في بداية تعلم علوم الحاسب ولازم تهتم بيها جدا.
 * Enjoy.
 ### Resources
@@ -112,7 +112,7 @@ http://y2u.be/ZHMr5kPjFpk
 
 ## Semester 1
 ```c
-🔴🔴
+🔴🔴🔴
 1. MATH 203 | جبر خطي
 ```
 ### Resources
@@ -127,6 +127,8 @@ http://y2u.be/ZHMr5kPjFpk
 * https://www.youtube.com/playlist?list=PLQhqxquSQptJFBc-7WPWhfFSScnFC-c7y  
 * https://www.youtube.com/playlist?list=PLQhqxquSQptKgs09Jvc0q5hn-ZxlFnb5Y   
 * https://github.com/SssiiiSssiii/CPP-Problems/tree/CPP/Algorithms (Lab)
+### نصائح
+* أوعى تحفظ.
 ```c
 3. COMP 203 | نظرية الحاسبات 
 ```
@@ -166,6 +168,8 @@ http://y2u.be/ZHMr5kPjFpk
 ### Resources   
 * https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca
 * https://www.youtube.com/playlist?list=PL5oEwebIvV5kngPuWZamxsu0G5Z7U5hyJ
+### نصائح
+* اوعى تحفظ
 ```c
 3. COMP 204 | شبكات الحاسب
 ```
@@ -221,6 +225,9 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 ```
 ### Resources
 * https://www.youtube.com/playlist?list=PLQhqxquSQptJh9muyE7k2XSskr3gDfYWT
+### نصائح
+* لازم تحضر.
+* لازم تجرب كل حاجة بأيدك.
 ```c
 🔴
 🔵🔵
@@ -229,6 +236,8 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 ### Resources
 * https://www.youtube.com/playlist?list=PLdUzuimxVcC0DENcdT8mfhI3iRRJLVjqH
 * https://www.youtube.com/playlist?list=PLylTVsqZiRXOpSWvkeuFoj-qzuF3xDiAs
+### نصائح
+* أوعى تحفظ.
 ```c
 5. COMP 307 | نظم التشغيل
 ```
@@ -259,7 +268,7 @@ https://www.statskingdom.com/combinations-calculator.html
 2. COMP 306 | رسومات الحاسب
 ```
 ```c
-🔴🔴🔴🔴
+🔴🔴🔴🔴🔴
 3. COMP 304 | تصميم مؤلفات
 ```
 ### Resources
@@ -274,6 +283,9 @@ https://www.statskingdom.com/combinations-calculator.html
 * https://cyberzhg.github.io/toolbox/left_fact
 * https://mikedevice.github.io/first-follow/
 * https://regex101.com/
+### نصائح
+* لازم تحضر.
+* لازم تجرب كل حاجة بأيدك.
 ```c
 🔴🔴🔴🔴
 🔵
