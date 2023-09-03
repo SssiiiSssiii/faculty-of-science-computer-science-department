@@ -334,7 +334,7 @@ https://www.statskingdom.com/combinations-calculator.html
 * https://sciasuedu-my.sharepoint.com/:f:/g/personal/hewayda_lotfy_sci_asu_edu_eg/ErHtUdUm9d9DsYobROEayr8BbpR4i01UHMvjTlxgNOd9aQ?e=PFmXzx (Dr's videos)
 * https://www.youtube.com/watch?v=rFy9trjFgxc&list=PLpi2rI8TUwE3RWk_A0rrYKQTcnPkpYTtl&pp=iAQB (الأساسيات فقط)   
 ### Useful tools  
-* https://www.mathworks.com/products/matlab-online.html 
+* https://www.mathworks.com/products/matlab-online.html (الأفضل انك تشتغل طول السنة أونلاين بلاش تحمل البرنامج)
 ```c
 3. COMP 409 | أمن الشبكات
 ```
@@ -342,7 +342,7 @@ https://www.statskingdom.com/combinations-calculator.html
 * https://drive.google.com/drive/u/0/folders/1xBYfbtE6GzMaX3F6U5BaXbB9ThW3vCAO
 * https://www.youtube.com/watch?v=FeQvVoUA_60&list=PLCl71jt8hcv1LESEuJzmGGrYjeXuLcvlq&pp=iAQB
 ### Useful tools
-  * https://www.hacksplaining.com/ (الأفضل انك تشتغل طول السنة أونلاين بلاش تحمل البرنامج)
+  * https://www.hacksplaining.com/ 
 ```c
 3. COMP 411 | الهندسة الحسابية
 ```
