@@ -348,7 +348,7 @@ https://www.statskingdom.com/combinations-calculator.html
 ### Useful tools  
 * https://www.mathworks.com/products/matlab-online.html (الأفضل انك تشتغل طول السنة أونلاين بلاش تحمل البرنامج)
 ```c
-3. COMP 409 | أمن الشبكات
+4. COMP 409 | أمن الشبكات
 ```
 ### Resources
 * https://drive.google.com/drive/u/0/folders/1xBYfbtE6GzMaX3F6U5BaXbB9ThW3vCAO
@@ -356,13 +356,13 @@ https://www.statskingdom.com/combinations-calculator.html
 ### Useful tools
   * https://www.hacksplaining.com/ 
 ```c
-3. COMP 411 | الهندسة الحسابية
+5. COMP 411 | الهندسة الحسابية
 ```
 ### Resources
 * https://drive.google.com/drive/u/0/folders/1b6GrPzxd9PQkZZA8FnjOebO6rxzo2tLc
 ```c
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
-3. COMP 405 | (أ)مشروع حاسب
+6. COMP 405 | (أ) مشروع حاسب
 ```
 ### نصائح
 *  دا أول وأهم مشروع هتشتغل عليه في الكلية فلازم تجيب أخرك.
@@ -377,11 +377,28 @@ https://www.statskingdom.com/combinations-calculator.html
 *  أتعلم الجيتهاب.
 ```c
 🔵🔵🔵🔵🔵🔵
-3. SKILL 401 | مهارات العمل
+7. SKILL 401 | مهارات العمل
 ```
 ### Resources
 * https://www.youtube.com/watch?v=jv8e8joTVJ8&list=PL2d8gh9EeIUPUKq26EhLiYt4RdO9XOpCX&ab_channel=abdoscienceChannel
 * https://drive.google.com/drive/u/0/folders/1ct2z8dc6hmtk6dQ3P5pQRH4ZmhMYHA9G
+
+## Semester 2
+```c
+1. COMP 402 | االمعلومات الحيوية
+```
+```c
+2. COMP 404 | هندسة البرمجيات
+```
+```c
+3. COMP 408 | موضوعات متقدمة في الذكاء الإصطناعي
+```
+```c
+4. COMP 416 | استخلاص البيانات
+```
+```c
+5. COMP 406 | مشروع حاسب (ب)
+```
 
 ***
 ### science asu OpenCourseWare
