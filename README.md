@@ -395,10 +395,18 @@ https://www.statskingdom.com/combinations-calculator.html
 ```c
 3. COMP 408 | موضوعات متقدمة في الذكاء الإصطناعي
 ```
+### Resources
+* https://drive.google.com/drive/folders/17F4LI9G6qG5OuzqBFmL_OBPRMLNxLl3-?usp=drive_link
+* https://drive.google.com/drive/folders/1iDtEctu8L22qhV3Xlen7BSh210DystS9?usp=sharing (Part 2)
+### Useful tools
+* https://bioboot.github.io/bimm143_W20/class-material/nw/ (**Global Alignment**)
+* https://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Smith-Waterman (**Local Alignment**)
 ```c
 🔴🔴
 4. COMP 416 | استخلاص البيانات
 ```
+### Resources
+* https://www.youtube.com/playlist?list=PLAZCf_VoDEsNLibPBaqkSYswfETbyyCnH
 ```c
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 5. COMP 406 | مشروع حاسب (ب)
