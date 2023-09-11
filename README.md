@@ -96,7 +96,7 @@ http://y2u.be/ZHMr5kPjFpk
 5. COMP 104 | (برمجة حاسب (1
 ```
 ### My tips is   
-* أول لغة برمجة هتتعلمها فلازم تتقنها كويس جدا عشان هيفرق معاك تعلم أي لغة تانية قدام.
+* أول لغة برمجة هتتعلمها فلازم تتقنها كويس جدا عشان هيفرق معاك في تعلم أي لغة تانية قدام.
 ### Resources
 * https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD   
 * https://www.youtube.com/watch?v=z1FdInL8sjg&list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3&ab_channel=AdelNasim
