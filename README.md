@@ -1,6 +1,6 @@
 
 # How to use ?
-* Academic year &rarr; Semester &rarr; Course code
+* **Academic year** &rarr; **Semester** &rarr; **Course code**
 * 🔴 &rarr; مؤشر الصعوبة    
 * 🔵 &rarr; مؤشر الأهمية  
 * For newcomers and for those who lost their way and hope of returning.                    
