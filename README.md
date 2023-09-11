@@ -90,7 +90,7 @@ http://y2u.be/ZHMr5kPjFpk
 ### Resources
 * https://www.youtube.com/playlist?list=PLhx4zaYkEjI8BuPybYhAotW2gKDIT9y2D
 ### Useful tools
-* https://www.calculator.net/binary-calculator.html
+* https://www.calculator.net/binary-calculator.html (**Binary Calculator**)
 ```c
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 5. COMP 104 | (برمجة حاسب (1
@@ -101,7 +101,7 @@ http://y2u.be/ZHMr5kPjFpk
 * https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD   
 * https://www.youtube.com/watch?v=z1FdInL8sjg&list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3&ab_channel=AdelNasim
 ### Useful tools
-* https://ideone.com/
+* https://ideone.com/ (**Online Compiler**)
 ```c
 6. INCO 102 | مدخل في الحاسب الآلي
 ```
@@ -260,10 +260,12 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 🔵🔵🔵
 1. COMP 302 | تأليفات خوازرمية
 ```
-https://www.statskingdom.com/combinations-calculator.html
+
 ### Resources 
+* https://www.youtube.com/playlist?list=PLmdFyQYShrjfPLdHQxuNWvh2ct666Na3z (Videos)
 ### Useful tools
-* https://www.youtube.com/playlist?list=PLl-gb0E4MII0CsY4AE2xeZwZIkds3jIGs
+* https://www.statskingdom.com/combinations-calculator.html (**Combination Calculator**)
+
 ```c
 2. COMP 306 | رسومات الحاسب
 ```
