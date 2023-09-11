@@ -1,5 +1,5 @@
 
-# How to use ?
+# How to use?
 * **Academic year** &rarr; **Semester** &rarr; **Course code**
 * 🔴 &rarr; مؤشر الصعوبة    
 * 🔵 &rarr; مؤشر الأهمية  
