@@ -307,13 +307,13 @@ https://www.statskingdom.com/combinations-calculator.html
 6. COMP 314 | نظم قواعد بيانات متقدمة
 ```
 ### Resources 
-* https://www.youtube.com/playlist?list=PL5oEwebIvV5m4_S8LYOkoPpH51S2q1_Xy
+* https://www.youtube.com/playlist?list=PL5oEwebIvV5m4_S8LYOkoPpH51S2q1_Xy (Videos)
 ```c
 🔵🔵🔵🔵
 7. ETHR 302 | أخلاقيات البحث العلمي
 ```
 ### Resources 
-* https://www.youtube.com/playlist?list=PL2d8gh9EeIUNNCaBTJpffK2b-YwxWCOGD    
+* https://www.youtube.com/playlist?list=PL2d8gh9EeIUNNCaBTJpffK2b-YwxWCOGD  (Videos)
 
 # Fourth  Year
 
@@ -323,7 +323,7 @@ https://www.statskingdom.com/combinations-calculator.html
 1. COMP 401 | ذكاء اصطناعي
 ```
 ### Resources
-* https://drive.google.com/drive/u/0/folders/1PS_kzFZ-3j0PUpzpGY1W-ZDY395y2EHA
+* https://drive.google.com/drive/u/0/folders/1PS_kzFZ-3j0PUpzpGY1W-ZDY395y2EHA (Materials)
 ### نصائح
 * لازم تحضر.
 ```c
@@ -332,7 +332,7 @@ https://www.statskingdom.com/combinations-calculator.html
 2. COMP 403 | المعالحة المتوازية والموزعة
 ```
 ### Resources
-* https://drive.google.com/drive/u/0/folders/1pZqgZcXMPLRB732evKqeK-Ow60Hh_sIg
+* https://drive.google.com/drive/u/0/folders/1pZqgZcXMPLRB732evKqeK-Ow60Hh_sIg (Materials)
 * https://www.youtube.com/playlist?list=PLQhqxquSQptJbJxQcXaGd9WZtaqFnsOZI (Lab)
 * https://bit.ly/3SKe7sk (Lab)
 * https://github.com/SssiiiSssiii/CPP-Problems/tree/CPP/Parallel%20and%20distributed%20processing (Lab)
@@ -342,16 +342,16 @@ https://www.statskingdom.com/combinations-calculator.html
 3. COMP 407 | معالجة الصور
 ```
 ### Resources
-* https://drive.google.com/drive/u/0/folders/16zi2Ixhm4mpCpBTsYC-ED7yCfMAfHI7u
+* https://drive.google.com/drive/u/0/folders/16zi2Ixhm4mpCpBTsYC-ED7yCfMAfHI7u (Materials)
 * https://sciasuedu-my.sharepoint.com/:f:/g/personal/hewayda_lotfy_sci_asu_edu_eg/ErHtUdUm9d9DsYobROEayr8BbpR4i01UHMvjTlxgNOd9aQ?e=PFmXzx (Dr's videos)
-* https://www.youtube.com/watch?v=rFy9trjFgxc&list=PLpi2rI8TUwE3RWk_A0rrYKQTcnPkpYTtl&pp=iAQB (الأساسيات فقط)   
+* https://www.youtube.com/watch?v=rFy9trjFgxc&list=PLpi2rI8TUwE3RWk_A0rrYKQTcnPkpYTtl&pp=iAQB (**أساسيات الماتلاب فقط**)   
 ### Useful tools  
 * https://www.mathworks.com/products/matlab-online.html (الأفضل انك تشتغل طول السنة أونلاين بلاش تحمل البرنامج)
 ```c
 4. COMP 409 | أمن الشبكات
 ```
 ### Resources
-* https://drive.google.com/drive/u/0/folders/1xBYfbtE6GzMaX3F6U5BaXbB9ThW3vCAO
+* https://drive.google.com/drive/u/0/folders/1xBYfbtE6GzMaX3F6U5BaXbB9ThW3vCAO (Materials)
 * https://www.youtube.com/watch?v=FeQvVoUA_60&list=PLCl71jt8hcv1LESEuJzmGGrYjeXuLcvlq&pp=iAQB
 ### Useful tools
   * https://www.hacksplaining.com/ 
@@ -359,7 +359,9 @@ https://www.statskingdom.com/combinations-calculator.html
 5. COMP 411 | الهندسة الحسابية
 ```
 ### Resources
-* https://drive.google.com/drive/u/0/folders/1b6GrPzxd9PQkZZA8FnjOebO6rxzo2tLc
+* https://drive.google.com/drive/u/0/folders/1b6GrPzxd9PQkZZA8FnjOebO6rxzo2tLc (Materials)
+### Useful tool
+* https://www.cs.usfca.edu/~galles/visualization/AVLtree.html (AVL)
 ```c
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 6. COMP 405 | (أ) مشروع حاسب
@@ -380,15 +382,16 @@ https://www.statskingdom.com/combinations-calculator.html
 7. SKILL 401 | مهارات العمل
 ```
 ### Resources
-* https://www.youtube.com/watch?v=jv8e8joTVJ8&list=PL2d8gh9EeIUPUKq26EhLiYt4RdO9XOpCX&ab_channel=abdoscienceChannel
-* https://drive.google.com/drive/u/0/folders/1ct2z8dc6hmtk6dQ3P5pQRH4ZmhMYHA9G
+* https://drive.google.com/drive/u/0/folders/1ct2z8dc6hmtk6dQ3P5pQRH4ZmhMYHA9G (Materials)
+* https://www.youtube.com/watch?v=jv8e8joTVJ8&list=PL2d8gh9EeIUPUKq26EhLiYt4RdO9XOpCX&ab_channel=abdoscienceChannel (Videos)
+
 
 ## Semester 2
 ```c
 🔴🔴🔴🔴
 1. COMP 402 | االمعلومات الحيوية
 ```
-* https://drive.google.com/drive/folders/1KwpXQCtMZdsw-_QDTCbRXftksNhGsHBK?usp=drive_link
+* https://drive.google.com/drive/folders/1KwpXQCtMZdsw-_QDTCbRXftksNhGsHBK?usp=drive_link (Materials)
 * https://drive.google.com/drive/folders/1iDtEctu8L22qhV3Xlen7BSh210DystS9?usp=sharing (Book Part 2)
 ### Useful tools
 * https://bioboot.github.io/bimm143_W20/class-material/nw/ (**Global Alignment**)
@@ -398,19 +401,19 @@ https://www.statskingdom.com/combinations-calculator.html
 2. COMP 404 | هندسة البرمجيات
 ```
 ### Resources
-* https://drive.google.com/drive/folders/1iKjTzZbV30Vgy3IgAYYcH2qukJBBGCbI?usp=drive_link
+* https://drive.google.com/drive/folders/1iKjTzZbV30Vgy3IgAYYcH2qukJBBGCbI?usp=drive_link (Materials)
 ```c
 3. COMP 408 | موضوعات متقدمة في الذكاء الإصطناعي
 ```
 ### Resources
-* https://drive.google.com/drive/folders/17F4LI9G6qG5OuzqBFmL_OBPRMLNxLl3-?usp=drive_link
+* https://drive.google.com/drive/folders/17F4LI9G6qG5OuzqBFmL_OBPRMLNxLl3-?usp=drive_link (Materials)
 ```c
 🔴🔴
 4. COMP 416 | استخلاص البيانات
 ```
 ### Resources
+* https://drive.google.com/drive/folders/1W98D4Q1yyjRkFSvwS3OT_P3Ve5FKGJLy?usp=drive_link (Materials)
 * https://www.youtube.com/playlist?list=PLAZCf_VoDEsNLibPBaqkSYswfETbyyCnH
-* https://drive.google.com/drive/folders/1W98D4Q1yyjRkFSvwS3OT_P3Ve5FKGJLy?usp=drive_link
 ```c
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 5. COMP 406 | مشروع حاسب (ب)
