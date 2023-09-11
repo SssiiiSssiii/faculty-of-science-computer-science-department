@@ -397,11 +397,14 @@ https://www.statskingdom.com/combinations-calculator.html
 * https://bioboot.github.io/bimm143_W20/class-material/nw/ (**Global Alignment**)
 * https://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Smith-Waterman (**Local Alignment**)
 ```c
-🔵🔵🔵🔵🔵🔵 (المقرر هيساعدك في مشروع التخرج)
+🔵🔵🔵🔵🔵🔵 
 2. COMP 404 | هندسة البرمجيات
 ```
 ### Resources
 * https://drive.google.com/drive/folders/1iKjTzZbV30Vgy3IgAYYcH2qukJBBGCbI?usp=drive_link (Materials)
+  
+### نصائح
+* **المقرر هيساعدك في مشروع التخرج**.
 ```c
 3. COMP 408 | موضوعات متقدمة في الذكاء الإصطناعي
 ```
