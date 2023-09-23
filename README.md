@@ -199,8 +199,14 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 ### Resources  
 * https://www.youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH
 
-## Attention 
-تقدر تفكر تختار مجال لشغلك https://roadmap.sh/
+************
+
+
+### Attention 
+ تقدر تفكر تختار مجال لشغلك من دلوقتي https://roadmap.sh/
+************
+
+
 # Third Year
 
 ## Semester 1
