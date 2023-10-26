@@ -386,6 +386,7 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 * دي الريبو بتاعت مشروعنا ممكن تشوفها وتشوف الدوكس بتتعمل ازاي وفيديو الديمو          https://shorturl.at/qTVX0
 * وتقدر تشوف إزاي كنا بنظم وبنتابع تتطور المشروع على مدار السنة     https://shorturl.at/tzHX1
 *  **أتعلم الجيتهاب**.
+*    جروبس هتفيدك في مشاريع التخرج عن طريق إنك تسئل فيها                          (https://m.facebook.com/groups/egyptian.geeks/ - https://m.facebook.com/groups/big.data.egypt/ - https://m.facebook.com/groups/cseknowledgeexchange/)
 ```c
 🔵🔵🔵🔵🔵🔵
 7. SKILL 401 | مهارات العمل
