@@ -438,4 +438,6 @@ https://drive.google.com/drive/u/0/folders/1ctfzhjcfHMtSydzW3KgHnW9NUbvp3mrU
 ### Drive    
 * https://drive.google.com/drive/u/0/folders/17IucFavvv8Q8wHXRJgg9m00zcwcTIKjX
 
+  
+### واعلم أن ثغرك الصّغير هو ميدانك الكبير، فخُذه بقوَّةٍ ولا تلتفت
 
