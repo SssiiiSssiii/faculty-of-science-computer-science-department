@@ -8,8 +8,10 @@ http://y2u.be/ZHMr5kPjFpk
   ### خلال رحلتك في علوم الحاسب لازم تشوف دول
    
   * https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB            
-  * https://www.youtube.com/playlist?list=PLPt2dINI2MIaDS_XRHMR3fHy0OITNV0Wg        
-*  إِشكاليات مهندس برمجيات &rarr;  https://www.blogger.com/u/1/blog/posts/3963788671828367852?hl=ar&tab=jj
+  * https://www.youtube.com/playlist?list=PLPt2dINI2MIaDS_XRHMR3fHy0OITNV0Wg
+
+  ### إِشكاليات مهندس برمجيات
+   * https://www.blogger.com/u/1/blog/posts/3963788671828367852?hl=ar&tab=jj
 # First Year 
 ## Semester 1
 ```c
