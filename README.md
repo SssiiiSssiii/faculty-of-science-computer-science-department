@@ -3,7 +3,7 @@
 * **Academic year** &rarr; **Semester** &rarr; **Course code**
 * 🔴 &rarr; مؤشر الصعوبة    
 * 🔵 &rarr; مؤشر الأهمية  
-* For newcomers and for those who lost their way and hope of returning.                    
+* For **newcomers** and for those who **lost their way** and hope of returning.                    
 http://y2u.be/ZHMr5kPjFpk
   ### خلال رحلتك في علوم الحاسب لازم تشوف دول
    
