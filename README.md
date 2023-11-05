@@ -5,9 +5,10 @@
 * 🔵 &rarr; مؤشر الأهمية  
 * For newcomers and for those who lost their way and hope of returning.                    
 http://y2u.be/ZHMr5kPjFpk
-*  خلال رحلتك في علوم الحاسب لازم تشوف دول             
+  ### خلال رحلتك في علوم الحاسب لازم تشوف دول
+   
   * https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB            
-  * https://www.youtube.com/watch?v=CjUW7LSamkw&list=PLPt2dINI2MIaDS_XRHMR3fHy0OITNV0Wg&pp=iAQB
+  * https://www.youtube.com/watch?v=CjUW7LSamkw&list=PLPt2dINI2MIaDS_XRHMR3fHy0OITNV0Wg&pp=iAQB             
 *  إِشكاليات مهندس برمجيات &rarr;  https://www.blogger.com/u/1/blog/posts/3963788671828367852?hl=ar&tab=jj
 # First Year 
 ## Semester 1
