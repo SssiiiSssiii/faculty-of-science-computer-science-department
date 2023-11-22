@@ -11,7 +11,7 @@ http://y2u.be/ZHMr5kPjFpk
   * https://www.youtube.com/playlist?list=PLPt2dINI2MIaDS_XRHMR3fHy0OITNV0Wg
 
   ### إِشكاليات مهندس برمجيات
-   * https://www.blogger.com/u/1/blog/posts/3963788671828367852?hl=ar&tab=jj
+   * https://softwareengineerparadoxes.blogspot.com
 # First Year 
 ## Semester 1
 ```c
